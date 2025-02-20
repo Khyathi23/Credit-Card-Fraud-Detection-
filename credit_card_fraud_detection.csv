@@ -1,0 +1,1501 @@
+TransactionID,TransactionAmount,TransactionDate,MerchantCategory,TransactionLocation,UserAge,UserAccountAge,IsFraud,CardType,TransactionMethod
+1117,46.65,2024-02-16 12:00:00,Online,Houston,56,34,1,Credit,Online
+1369,90.66,2024-02-27 00:00:00,Clothing,Phoenix,54,36,1,Credit,Online
+423,46.51,2024-01-18 14:00:00,Online,Phoenix,19,50,0,Credit,Online
+414,287.15,2024-01-18 05:00:00,Grocery,Chicago,37,76,0,Debit,Online
+452,279.64,2024-01-19 19:00:00,Electronics,Los Angeles,37,21,0,Credit,In-Person
+862,227.19,2024-02-05 21:00:00,Clothing,Chicago,62,52,1,Credit,In-Person
+1064,209.47,2024-02-14 07:00:00,Electronics,Phoenix,35,25,1,Debit,In-Person
+742,151.39,2024-01-31 21:00:00,Electronics,Los Angeles,22,59,0,Credit,Online
+1273,390.15,2024-02-23 00:00:00,Online,New York,18,72,1,Debit,In-Person
+260,49.49,2024-01-11 19:00:00,Clothing,Houston,43,108,0,Credit,In-Person
+889,50.62,2024-02-07 00:00:00,Gas,Phoenix,45,21,1,Credit,In-Person
+1433,244.93,2024-02-29 16:00:00,Electronics,Houston,47,47,1,Credit,Online
+713,236.32,2024-01-30 16:00:00,Electronics,Phoenix,48,28,0,Credit,Online
+1383,484.74,2024-02-27 14:00:00,Online,Phoenix,35,102,1,Credit,In-Person
+71,386.35,2024-01-03 22:00:00,Online,New York,28,21,0,Credit,Online
+1269,300.41,2024-02-22 20:00:00,Grocery,Phoenix,47,89,1,Debit,In-Person
+1492,187.25,2024-03-03 03:00:00,Grocery,Los Angeles,54,80,1,Credit,Online
+608,182.77,2024-01-26 07:00:00,Online,Chicago,55,37,0,Debit,Online
+434,51.46,2024-01-19 01:00:00,Gas,Los Angeles,28,38,0,Debit,Online
+52,387.79,2024-01-03 03:00:00,Electronics,Phoenix,62,32,0,Debit,In-Person
+1200,65.91,2024-02-19 23:00:00,Online,Phoenix,24,67,1,Debit,In-Person
+1129,186.97,2024-02-17 00:00:00,Grocery,Chicago,36,86,1,Credit,Online
+1191,34.61,2024-02-19 14:00:00,Grocery,Los Angeles,38,66,1,Debit,In-Person
+1250,308.71,2024-02-22 01:00:00,Grocery,Phoenix,67,98,1,Credit,In-Person
+1420,467.0,2024-02-29 03:00:00,Electronics,Houston,52,90,1,Debit,In-Person
+433,309.49,2024-01-19 00:00:00,Grocery,New York,49,38,0,Debit,In-Person
+1453,434.58,2024-03-01 12:00:00,Gas,Chicago,46,97,1,Credit,Online
+1471,283.94,2024-03-02 06:00:00,Electronics,Chicago,34,93,1,Credit,Online
+1235,326.18,2024-02-21 10:00:00,Electronics,New York,69,34,1,Debit,Online
+1282,351.53,2024-02-23 09:00:00,Grocery,New York,46,103,1,Credit,Online
+1086,234.23,2024-02-15 05:00:00,Grocery,Chicago,53,106,1,Credit,Online
+611,20.62,2024-01-26 10:00:00,Online,Los Angeles,50,85,0,Debit,Online
+1285,163.9,2024-02-23 12:00:00,Grocery,New York,55,118,1,Debit,Online
+1042,395.57,2024-02-13 09:00:00,Gas,Houston,35,95,1,Credit,Online
+221,329.15,2024-01-10 04:00:00,Gas,Los Angeles,27,61,0,Credit,In-Person
+340,49.82,2024-01-15 03:00:00,Clothing,New York,54,15,0,Credit,Online
+424,247.72,2024-01-18 15:00:00,Electronics,Chicago,62,94,0,Credit,Online
+429,176.11,2024-01-18 20:00:00,Online,New York,18,7,0,Credit,In-Person
+1106,87.77,2024-02-16 01:00:00,Electronics,New York,48,115,1,Debit,Online
+77,385.86,2024-01-04 04:00:00,Online,Los Angeles,34,63,0,Debit,Online
+1392,37.67,2024-02-27 23:00:00,Online,New York,66,74,1,Debit,Online
+440,41.59,2024-01-19 07:00:00,Clothing,Houston,43,74,0,Debit,Online
+1337,100.57,2024-02-25 16:00:00,Gas,Los Angeles,55,53,1,Credit,Online
+865,200.98,2024-02-06 00:00:00,Grocery,Los Angeles,29,38,1,Credit,In-Person
+1081,393.39,2024-02-15 00:00:00,Online,Los Angeles,28,1,1,Debit,In-Person
+355,36.21,2024-01-15 18:00:00,Grocery,Chicago,42,119,0,Credit,In-Person
+366,193.67,2024-01-16 05:00:00,Clothing,Houston,62,41,0,Credit,In-Person
+310,136.15,2024-01-13 21:00:00,Gas,Phoenix,43,12,0,Credit,Online
+737,196.83,2024-01-31 16:00:00,Grocery,Phoenix,66,38,0,Debit,Online
+999,475.17,2024-02-11 14:00:00,Grocery,Los Angeles,18,23,1,Debit,Online
+622,105.47,2024-01-26 21:00:00,Grocery,New York,24,94,0,Credit,Online
+544,336.18,2024-01-23 15:00:00,Online,Phoenix,63,5,0,Debit,Online
+1141,412.52,2024-02-17 12:00:00,Grocery,Chicago,36,10,1,Debit,In-Person
+1297,84.57,2024-02-24 00:00:00,Online,Los Angeles,38,82,1,Credit,Online
+555,438.45,2024-01-24 02:00:00,Electronics,New York,63,76,0,Credit,In-Person
+680,432.89,2024-01-29 07:00:00,Online,Houston,35,10,0,Debit,Online
+50,93.24,2024-01-03 01:00:00,Clothing,Houston,45,3,0,Credit,Online
+491,228.37,2024-01-21 10:00:00,Online,Los Angeles,43,85,0,Debit,Online
+317,205.07,2024-01-14 04:00:00,Electronics,New York,56,71,0,Credit,Online
+905,211.29,2024-02-07 16:00:00,Clothing,Phoenix,40,70,1,Credit,In-Person
+637,266.78,2024-01-27 12:00:00,Grocery,New York,35,92,0,Credit,Online
+561,352.34,2024-01-24 08:00:00,Grocery,Houston,40,77,0,Debit,Online
+487,23.68,2024-01-21 06:00:00,Gas,Houston,25,64,0,Credit,Online
+68,401.3,2024-01-03 19:00:00,Grocery,Chicago,27,98,0,Debit,In-Person
+812,419.61,2024-02-03 19:00:00,Clothing,Los Angeles,31,45,1,Credit,Online
+494,94.87,2024-01-21 13:00:00,Grocery,Chicago,43,47,0,Debit,In-Person
+311,220.05,2024-01-13 22:00:00,Electronics,Los Angeles,26,52,0,Credit,In-Person
+1097,111.02,2024-02-15 16:00:00,Grocery,Phoenix,57,79,1,Debit,Online
+1248,17.23,2024-02-21 23:00:00,Grocery,Chicago,67,20,1,Debit,Online
+185,129.71,2024-01-08 16:00:00,Electronics,New York,32,26,0,Debit,In-Person
+307,258.63,2024-01-13 18:00:00,Electronics,Houston,57,100,0,Credit,Online
+853,105.74,2024-02-05 12:00:00,Clothing,Chicago,30,85,1,Debit,Online
+793,253.44,2024-02-03 00:00:00,Clothing,Phoenix,41,31,1,Debit,Online
+290,295.83,2024-01-13 01:00:00,Clothing,New York,64,59,0,Debit,Online
+707,161.85,2024-01-30 10:00:00,Clothing,Los Angeles,35,4,0,Credit,In-Person
+1330,249.6,2024-02-25 09:00:00,Clothing,Houston,60,53,1,Debit,In-Person
+655,216.4,2024-01-28 06:00:00,Online,New York,47,112,0,Credit,In-Person
+523,484.99,2024-01-22 18:00:00,Clothing,New York,59,89,0,Debit,In-Person
+462,324.96,2024-01-20 05:00:00,Online,Los Angeles,44,92,0,Credit,In-Person
+931,70.54,2024-02-08 18:00:00,Electronics,Chicago,47,55,1,Debit,Online
+1035,39.4,2024-02-13 02:00:00,Grocery,Houston,60,39,1,Credit,In-Person
+30,24.18,2024-01-02 05:00:00,Gas,Phoenix,20,97,0,Credit,In-Person
+241,470.29,2024-01-11 00:00:00,Electronics,Houston,67,105,0,Credit,In-Person
+799,348.63,2024-02-03 06:00:00,Gas,Chicago,60,79,1,Credit,In-Person
+818,200.1,2024-02-04 01:00:00,Clothing,Phoenix,64,84,1,Credit,Online
+66,271.81,2024-01-03 17:00:00,Electronics,Houston,65,71,0,Debit,In-Person
+602,140.02,2024-01-26 01:00:00,Electronics,Los Angeles,58,65,0,Debit,In-Person
+925,213.18,2024-02-08 12:00:00,Electronics,New York,68,52,1,Debit,In-Person
+755,70.5,2024-02-01 10:00:00,Online,Chicago,27,111,1,Debit,In-Person
+927,135.07,2024-02-08 14:00:00,Clothing,Houston,60,109,1,Debit,Online
+1102,484.58,2024-02-15 21:00:00,Clothing,New York,31,71,1,Credit,In-Person
+248,483.36,2024-01-11 07:00:00,Electronics,Los Angeles,49,33,0,Credit,Online
+278,325.33,2024-01-12 13:00:00,Electronics,Phoenix,37,66,0,Credit,In-Person
+1403,19.3,2024-02-28 10:00:00,Grocery,Chicago,59,76,1,Credit,Online
+1067,120.15,2024-02-14 10:00:00,Online,Chicago,46,66,1,Debit,Online
+480,262.03,2024-01-20 23:00:00,Grocery,Chicago,45,98,0,Debit,Online
+427,221.32,2024-01-18 18:00:00,Online,New York,42,88,0,Debit,In-Person
+124,55.92,2024-01-06 03:00:00,Online,Chicago,46,17,0,Credit,In-Person
+1170,144.23,2024-02-18 17:00:00,Online,Houston,41,56,1,Debit,Online
+395,171.06,2024-01-17 10:00:00,Gas,Chicago,62,51,0,Debit,Online
+986,248.25,2024-02-11 01:00:00,Grocery,New York,19,14,1,Credit,Online
+716,464.84,2024-01-30 19:00:00,Clothing,New York,35,76,0,Credit,Online
+1135,341.95,2024-02-17 06:00:00,Online,Houston,32,48,1,Debit,Online
+1085,472.42,2024-02-15 04:00:00,Grocery,Los Angeles,30,12,1,Debit,Online
+498,39.79,2024-01-21 17:00:00,Gas,New York,45,84,0,Credit,Online
+45,130.13,2024-01-02 20:00:00,Electronics,Chicago,64,97,0,Credit,Online
+60,163.34,2024-01-03 11:00:00,Grocery,Houston,47,14,0,Credit,Online
+1162,65.31,2024-02-18 09:00:00,Online,Houston,30,3,1,Debit,In-Person
+24,183.81,2024-01-01 23:00:00,Clothing,Chicago,37,91,0,Credit,Online
+875,13.67,2024-02-06 10:00:00,Gas,Phoenix,63,62,1,Credit,In-Person
+482,348.18,2024-01-21 01:00:00,Online,Phoenix,64,52,0,Credit,In-Person
+1325,487.96,2024-02-25 04:00:00,Online,Los Angeles,26,27,1,Debit,In-Person
+746,449.89,2024-02-01 01:00:00,Online,New York,49,87,0,Debit,Online
+232,251.82,2024-01-10 15:00:00,Online,New York,60,72,0,Credit,Online
+125,114.74,2024-01-06 04:00:00,Online,Phoenix,64,88,0,Debit,In-Person
+428,443.96,2024-01-18 19:00:00,Gas,Phoenix,25,87,0,Debit,Online
+819,28.33,2024-02-04 02:00:00,Clothing,New York,22,52,1,Debit,In-Person
+169,21.35,2024-01-08 00:00:00,Grocery,New York,60,107,0,Credit,Online
+116,435.86,2024-01-05 19:00:00,Online,Chicago,53,117,0,Credit,In-Person
+1089,495.59,2024-02-15 08:00:00,Gas,New York,54,50,1,Debit,In-Person
+987,344.51,2024-02-11 02:00:00,Grocery,Chicago,57,69,1,Debit,In-Person
+1396,414.61,2024-02-28 03:00:00,Grocery,New York,46,34,1,Debit,In-Person
+1425,493.33,2024-02-29 08:00:00,Grocery,Los Angeles,37,5,1,Debit,Online
+416,224.77,2024-01-18 07:00:00,Online,Houston,22,112,0,Credit,Online
+142,126.64,2024-01-06 21:00:00,Electronics,Chicago,63,75,0,Debit,In-Person
+1234,16.54,2024-02-21 09:00:00,Grocery,New York,20,116,1,Credit,In-Person
+1294,345.04,2024-02-23 21:00:00,Gas,New York,47,42,1,Debit,In-Person
+763,125.0,2024-02-01 18:00:00,Gas,New York,55,49,1,Debit,In-Person
+1207,341.96,2024-02-20 06:00:00,Clothing,Los Angeles,52,84,1,Credit,Online
+463,373.28,2024-01-20 06:00:00,Online,Los Angeles,61,57,0,Credit,Online
+1244,422.55,2024-02-21 19:00:00,Electronics,New York,41,70,1,Credit,Online
+79,179.87,2024-01-04 06:00:00,Electronics,Los Angeles,29,42,0,Credit,In-Person
+1005,403.47,2024-02-11 20:00:00,Electronics,Houston,51,15,1,Debit,Online
+1491,119.53,2024-03-03 02:00:00,Grocery,Phoenix,34,93,1,Credit,Online
+572,392.04,2024-01-24 19:00:00,Grocery,Phoenix,31,16,0,Credit,In-Person
+16,92.52,2024-01-01 15:00:00,Gas,Los Angeles,36,27,0,Credit,Online
+495,232.39,2024-01-21 14:00:00,Online,Chicago,40,33,0,Debit,In-Person
+351,252.06,2024-01-15 14:00:00,Grocery,Phoenix,39,72,0,Credit,In-Person
+1000,223.56,2024-02-11 15:00:00,Gas,Houston,53,81,1,Credit,In-Person
+275,256.16,2024-01-12 10:00:00,Online,Phoenix,33,48,0,Credit,Online
+1192,291.5,2024-02-19 15:00:00,Grocery,Los Angeles,56,52,1,Credit,In-Person
+272,405.25,2024-01-12 07:00:00,Online,New York,66,26,0,Debit,In-Person
+1474,202.67,2024-03-02 09:00:00,Online,Los Angeles,61,15,1,Credit,Online
+238,13.13,2024-01-10 21:00:00,Grocery,Phoenix,24,20,0,Debit,In-Person
+586,120.83,2024-01-25 09:00:00,Online,Los Angeles,63,41,0,Debit,In-Person
+1313,274.25,2024-02-24 16:00:00,Electronics,Phoenix,23,119,1,Debit,Online
+695,58.3,2024-01-29 22:00:00,Grocery,New York,46,67,0,Debit,In-Person
+1002,271.41,2024-02-11 17:00:00,Clothing,New York,62,79,1,Credit,Online
+323,330.44,2024-01-14 10:00:00,Electronics,Chicago,44,27,0,Debit,Online
+783,126.65,2024-02-02 14:00:00,Online,New York,26,114,1,Credit,In-Person
+1359,139.14,2024-02-26 14:00:00,Electronics,Chicago,51,75,1,Credit,Online
+1204,162.48,2024-02-20 03:00:00,Online,Houston,46,12,1,Debit,In-Person
+971,332.17,2024-02-10 10:00:00,Online,Houston,45,40,1,Credit,In-Person
+1467,488.61,2024-03-02 02:00:00,Grocery,Houston,18,58,1,Credit,Online
+527,207.99,2024-01-22 22:00:00,Electronics,New York,57,82,0,Credit,Online
+1426,482.59,2024-02-29 09:00:00,Clothing,Los Angeles,46,15,1,Debit,Online
+1171,308.85,2024-02-18 18:00:00,Electronics,Phoenix,35,108,1,Debit,In-Person
+176,88.01,2024-01-08 07:00:00,Electronics,Los Angeles,53,92,0,Credit,Online
+359,470.17,2024-01-15 22:00:00,Electronics,Phoenix,53,10,0,Debit,Online
+44,454.75,2024-01-02 19:00:00,Grocery,New York,22,34,0,Debit,Online
+417,147.31,2024-01-18 08:00:00,Online,Houston,26,54,0,Credit,Online
+345,199.85,2024-01-15 08:00:00,Clothing,New York,29,26,0,Debit,In-Person
+1027,431.16,2024-02-12 18:00:00,Clothing,Chicago,42,86,1,Credit,In-Person
+1402,84.64,2024-02-28 09:00:00,Gas,New York,29,114,1,Credit,Online
+102,318.57,2024-01-05 05:00:00,Gas,Houston,43,15,0,Credit,Online
+108,378.02,2024-01-05 11:00:00,Electronics,Los Angeles,64,90,0,Credit,Online
+1490,224.9,2024-03-03 01:00:00,Electronics,Phoenix,67,104,1,Credit,Online
+1053,469.59,2024-02-13 20:00:00,Electronics,Houston,43,51,1,Credit,In-Person
+965,145.06,2024-02-10 04:00:00,Clothing,Chicago,62,117,1,Credit,Online
+381,59.96,2024-01-16 20:00:00,Gas,New York,62,106,0,Debit,In-Person
+245,8.71,2024-01-11 04:00:00,Grocery,Phoenix,50,90,0,Debit,Online
+1100,175.71,2024-02-15 19:00:00,Gas,Chicago,40,17,1,Debit,Online
+501,349.38,2024-01-21 20:00:00,Electronics,Houston,36,114,0,Debit,In-Person
+701,266.76,2024-01-30 04:00:00,Online,Los Angeles,56,35,0,Debit,Online
+129,4.47,2024-01-06 08:00:00,Grocery,Houston,40,96,0,Credit,Online
+240,89.38,2024-01-10 23:00:00,Grocery,Phoenix,64,71,0,Debit,In-Person
+1115,296.88,2024-02-16 10:00:00,Grocery,Houston,42,58,1,Debit,In-Person
+683,86.27,2024-01-29 10:00:00,Grocery,New York,47,4,0,Credit,In-Person
+483,227.82,2024-01-21 02:00:00,Online,Houston,62,104,0,Credit,Online
+1306,435.61,2024-02-24 09:00:00,Online,Chicago,33,2,1,Credit,Online
+276,251.26,2024-01-12 11:00:00,Gas,Houston,19,100,0,Debit,In-Person
+583,246.82,2024-01-25 06:00:00,Clothing,Chicago,46,74,0,Debit,Online
+204,449.38,2024-01-09 11:00:00,Clothing,Phoenix,26,3,0,Credit,In-Person
+33,33.46,2024-01-02 08:00:00,Clothing,New York,40,38,0,Credit,Online
+1320,31.12,2024-02-24 23:00:00,Grocery,Houston,33,61,1,Credit,Online
+814,460.5,2024-02-03 21:00:00,Grocery,New York,53,78,1,Credit,Online
+998,69.27,2024-02-11 13:00:00,Grocery,Phoenix,52,99,1,Debit,Online
+382,348.67,2024-01-16 21:00:00,Grocery,Los Angeles,40,85,0,Credit,In-Person
+1074,9.92,2024-02-14 17:00:00,Grocery,Phoenix,58,20,1,Debit,In-Person
+1349,493.84,2024-02-26 04:00:00,Online,Los Angeles,44,39,1,Credit,In-Person
+579,246.57,2024-01-25 02:00:00,Grocery,Los Angeles,33,101,0,Credit,Online
+888,119.85,2024-02-06 23:00:00,Gas,Los Angeles,29,91,1,Debit,Online
+1326,169.11,2024-02-25 05:00:00,Clothing,Phoenix,22,26,1,Debit,In-Person
+1327,91.88,2024-02-25 06:00:00,Gas,New York,59,7,1,Credit,In-Person
+942,277.53,2024-02-09 05:00:00,Electronics,Chicago,62,66,1,Debit,In-Person
+164,268.35,2024-01-07 19:00:00,Electronics,Chicago,62,95,0,Debit,In-Person
+910,190.47,2024-02-07 21:00:00,Grocery,Phoenix,52,65,1,Debit,In-Person
+298,108.69,2024-01-13 09:00:00,Clothing,Phoenix,44,78,0,Debit,Online
+756,397.22,2024-02-01 11:00:00,Clothing,Los Angeles,45,40,1,Debit,In-Person
+406,447.87,2024-01-17 21:00:00,Grocery,Houston,34,10,0,Credit,In-Person
+969,283.64,2024-02-10 08:00:00,Gas,Houston,37,39,1,Debit,In-Person
+606,230.93,2024-01-26 05:00:00,Grocery,Phoenix,65,26,0,Debit,In-Person
+421,396.0,2024-01-18 12:00:00,Clothing,Phoenix,48,21,0,Debit,In-Person
+465,481.12,2024-01-20 08:00:00,Electronics,New York,37,96,0,Credit,In-Person
+1188,34.85,2024-02-19 11:00:00,Clothing,Houston,68,2,1,Debit,Online
+940,288.68,2024-02-09 03:00:00,Electronics,Los Angeles,40,73,1,Debit,Online
+193,450.31,2024-01-09 00:00:00,Electronics,New York,37,66,0,Debit,In-Person
+675,205.79,2024-01-29 02:00:00,Grocery,Chicago,25,5,0,Credit,Online
+352,428.39,2024-01-15 15:00:00,Grocery,New York,31,106,0,Debit,Online
+859,282.86,2024-02-05 18:00:00,Electronics,Houston,35,57,1,Debit,In-Person
+64,179.02,2024-01-03 15:00:00,Gas,New York,52,103,0,Credit,In-Person
+1174,130.64,2024-02-18 21:00:00,Clothing,New York,46,77,1,Debit,Online
+766,285.37,2024-02-01 21:00:00,Grocery,Houston,36,57,1,Debit,In-Person
+1441,484.99,2024-03-01 00:00:00,Grocery,Chicago,32,54,1,Debit,Online
+262,495.04,2024-01-11 21:00:00,Electronics,Phoenix,57,49,0,Debit,In-Person
+343,87.43,2024-01-15 06:00:00,Grocery,Chicago,31,70,0,Debit,In-Person
+1221,475.48,2024-02-20 20:00:00,Gas,Houston,28,118,1,Credit,Online
+472,484.97,2024-01-20 15:00:00,Gas,Los Angeles,36,52,0,Credit,In-Person
+1335,487.42,2024-02-25 14:00:00,Electronics,Phoenix,51,92,1,Credit,Online
+199,443.66,2024-01-09 06:00:00,Grocery,Phoenix,46,33,0,Credit,Online
+1232,115.75,2024-02-21 07:00:00,Clothing,Chicago,65,10,1,Credit,In-Person
+918,474.28,2024-02-08 05:00:00,Gas,Los Angeles,57,67,1,Debit,In-Person
+744,251.86,2024-01-31 23:00:00,Gas,Phoenix,22,68,0,Debit,Online
+571,257.48,2024-01-24 18:00:00,Electronics,Chicago,53,76,0,Debit,In-Person
+219,325.17,2024-01-10 02:00:00,Gas,Houston,19,16,0,Debit,Online
+454,453.27,2024-01-19 21:00:00,Electronics,Los Angeles,25,85,0,Debit,Online
+31,304.16,2024-01-02 06:00:00,Online,Phoenix,26,80,0,Credit,In-Person
+57,45.16,2024-01-03 08:00:00,Clothing,Houston,31,105,0,Debit,In-Person
+1211,213.66,2024-02-20 10:00:00,Clothing,New York,24,41,1,Credit,In-Person
+1386,163.27,2024-02-27 17:00:00,Clothing,Los Angeles,57,63,1,Credit,In-Person
+1066,369.05,2024-02-14 09:00:00,Online,Houston,19,76,1,Debit,Online
+431,72.35,2024-01-18 22:00:00,Online,Phoenix,61,1,0,Credit,In-Person
+725,287.66,2024-01-31 04:00:00,Clothing,Chicago,23,17,0,Credit,In-Person
+1145,134.25,2024-02-17 16:00:00,Clothing,Los Angeles,47,52,1,Credit,In-Person
+1006,329.73,2024-02-11 21:00:00,Electronics,Houston,42,28,1,Credit,In-Person
+1051,437.48,2024-02-13 18:00:00,Clothing,Los Angeles,62,110,1,Credit,In-Person
+1346,213.32,2024-02-26 01:00:00,Online,Houston,21,93,1,Debit,Online
+1237,432.31,2024-02-21 12:00:00,Gas,Phoenix,52,72,1,Credit,Online
+1236,184.89,2024-02-21 11:00:00,Clothing,Los Angeles,64,67,1,Debit,Online
+1449,472.36,2024-03-01 08:00:00,Grocery,Houston,67,89,1,Credit,Online
+621,93.08,2024-01-26 20:00:00,Clothing,Los Angeles,18,16,0,Debit,Online
+1068,56.13,2024-02-14 11:00:00,Gas,Phoenix,30,107,1,Credit,Online
+839,290.71,2024-02-04 22:00:00,Gas,Los Angeles,21,10,1,Debit,Online
+100,54.84,2024-01-05 03:00:00,Grocery,Phoenix,56,71,0,Credit,Online
+533,498.32,2024-01-23 04:00:00,Grocery,New York,56,54,0,Credit,Online
+529,29.13,2024-01-23 00:00:00,Electronics,Chicago,69,94,0,Debit,Online
+1347,173.62,2024-02-26 02:00:00,Electronics,Houston,21,54,1,Credit,Online
+1173,316.27,2024-02-18 20:00:00,Online,Houston,23,40,1,Debit,In-Person
+1179,380.75,2024-02-19 02:00:00,Clothing,Los Angeles,28,27,1,Credit,Online
+630,126.97,2024-01-27 05:00:00,Gas,Chicago,53,25,0,Credit,Online
+1028,422.43,2024-02-12 19:00:00,Gas,Phoenix,62,18,1,Credit,Online
+271,404.87,2024-01-12 06:00:00,Gas,Phoenix,44,108,0,Credit,Online
+1342,231.85,2024-02-25 21:00:00,Clothing,Los Angeles,18,95,1,Debit,In-Person
+627,231.8,2024-01-27 02:00:00,Clothing,Houston,25,31,0,Debit,Online
+1043,160.06,2024-02-13 10:00:00,Electronics,Phoenix,41,34,1,Credit,Online
+977,297.94,2024-02-10 16:00:00,Online,Chicago,67,30,1,Credit,Online
+372,10.09,2024-01-16 11:00:00,Clothing,Houston,68,95,0,Debit,In-Person
+589,64.89,2024-01-25 12:00:00,Gas,Chicago,55,50,0,Debit,In-Person
+968,149.26,2024-02-10 07:00:00,Electronics,Phoenix,40,81,1,Debit,In-Person
+1166,409.17,2024-02-18 13:00:00,Electronics,Los Angeles,51,48,1,Debit,Online
+1147,398.92,2024-02-17 18:00:00,Grocery,New York,66,83,1,Debit,Online
+237,141.11,2024-01-10 20:00:00,Electronics,Los Angeles,21,16,0,Debit,In-Person
+597,334.11,2024-01-25 20:00:00,Gas,Houston,24,15,0,Credit,In-Person
+963,123.43,2024-02-10 02:00:00,Clothing,Houston,57,39,1,Credit,In-Person
+1446,89.4,2024-03-01 05:00:00,Clothing,Houston,61,62,1,Debit,In-Person
+1164,372.01,2024-02-18 11:00:00,Online,Phoenix,44,101,1,Debit,In-Person
+591,70.27,2024-01-25 14:00:00,Electronics,New York,64,106,0,Credit,Online
+209,3.53,2024-01-09 16:00:00,Gas,Los Angeles,36,99,0,Debit,Online
+1075,493.87,2024-02-14 18:00:00,Grocery,Phoenix,25,38,1,Credit,In-Person
+900,43.67,2024-02-07 11:00:00,Clothing,Houston,52,28,1,Credit,In-Person
+354,82.3,2024-01-15 17:00:00,Grocery,Los Angeles,53,35,0,Debit,Online
+59,23.57,2024-01-03 10:00:00,Clothing,Houston,63,61,0,Debit,In-Person
+304,319.08,2024-01-13 15:00:00,Gas,Houston,42,6,0,Debit,Online
+1448,419.22,2024-03-01 07:00:00,Online,Los Angeles,52,46,1,Credit,In-Person
+844,480.57,2024-02-05 03:00:00,Online,Houston,43,21,1,Credit,Online
+1262,398.98,2024-02-22 13:00:00,Gas,Houston,30,91,1,Credit,Online
+1431,227.92,2024-02-29 14:00:00,Electronics,Los Angeles,18,3,1,Debit,In-Person
+1210,498.57,2024-02-20 09:00:00,Gas,Houston,57,13,1,Debit,Online
+368,452.77,2024-01-16 07:00:00,Online,New York,22,17,0,Credit,In-Person
+1358,211.44,2024-02-26 13:00:00,Electronics,New York,33,58,1,Credit,In-Person
+1198,484.47,2024-02-19 21:00:00,Gas,Phoenix,49,107,1,Debit,Online
+1305,354.82,2024-02-24 08:00:00,Gas,Phoenix,34,28,1,Debit,Online
+1233,107.34,2024-02-21 08:00:00,Electronics,Chicago,49,106,1,Debit,In-Person
+705,32.62,2024-01-30 08:00:00,Electronics,Los Angeles,24,105,0,Debit,In-Person
+234,246.77,2024-01-10 17:00:00,Grocery,Los Angeles,18,103,0,Credit,In-Person
+619,403.29,2024-01-26 18:00:00,Clothing,Los Angeles,43,77,0,Debit,Online
+197,363.25,2024-01-09 04:00:00,Online,New York,39,17,0,Debit,Online
+1260,291.4,2024-02-22 11:00:00,Online,Phoenix,20,70,1,Debit,Online
+82,312.03,2024-01-04 09:00:00,Gas,Chicago,28,76,0,Credit,In-Person
+1405,332.24,2024-02-28 12:00:00,Gas,New York,68,118,1,Debit,In-Person
+598,86.99,2024-01-25 21:00:00,Online,Houston,39,112,0,Debit,In-Person
+1157,80.14,2024-02-18 04:00:00,Clothing,Houston,69,102,1,Credit,In-Person
+112,81.45,2024-01-05 15:00:00,Gas,Phoenix,30,25,0,Debit,Online
+1277,121.78,2024-02-23 04:00:00,Electronics,Los Angeles,31,33,1,Credit,Online
+781,347.28,2024-02-02 12:00:00,Electronics,Los Angeles,20,86,1,Credit,Online
+984,38.49,2024-02-10 23:00:00,Clothing,Houston,28,51,1,Debit,In-Person
+800,461.33,2024-02-03 07:00:00,Electronics,Chicago,33,23,1,Debit,Online
+1266,37.15,2024-02-22 17:00:00,Grocery,Chicago,57,2,1,Credit,Online
+1151,354.47,2024-02-17 22:00:00,Online,Chicago,57,9,1,Credit,Online
+825,269.16,2024-02-04 08:00:00,Electronics,Phoenix,31,117,1,Credit,In-Person
+383,314.84,2024-01-16 22:00:00,Electronics,Phoenix,31,86,0,Debit,In-Person
+539,225.82,2024-01-23 10:00:00,Gas,Chicago,63,53,0,Debit,Online
+1494,37.52,2024-03-03 05:00:00,Electronics,Houston,23,28,1,Debit,Online
+1113,112.68,2024-02-16 08:00:00,Clothing,New York,62,102,1,Credit,Online
+325,477.48,2024-01-14 12:00:00,Electronics,Los Angeles,48,107,0,Credit,Online
+362,322.0,2024-01-16 01:00:00,Online,Phoenix,55,108,0,Debit,In-Person
+1488,348.04,2024-03-02 23:00:00,Gas,Los Angeles,19,23,1,Credit,Online
+1030,414.63,2024-02-12 21:00:00,Electronics,Chicago,38,46,1,Credit,Online
+708,405.13,2024-01-30 11:00:00,Gas,Houston,61,93,0,Debit,Online
+333,8.18,2024-01-14 20:00:00,Electronics,New York,37,64,0,Debit,In-Person
+430,59.42,2024-01-18 21:00:00,Grocery,Houston,37,9,0,Credit,In-Person
+1243,385.69,2024-02-21 18:00:00,Clothing,Chicago,34,66,1,Debit,Online
+426,275.21,2024-01-18 17:00:00,Clothing,New York,44,20,0,Credit,In-Person
+629,19.3,2024-01-27 04:00:00,Clothing,New York,36,106,0,Debit,In-Person
+1112,113.0,2024-02-16 07:00:00,Gas,Phoenix,34,114,1,Credit,Online
+678,199.53,2024-01-29 05:00:00,Electronics,Los Angeles,36,54,0,Credit,In-Person
+694,121.96,2024-01-29 21:00:00,Online,Los Angeles,29,101,0,Credit,In-Person
+758,267.2,2024-02-01 13:00:00,Clothing,New York,32,51,1,Credit,In-Person
+255,85.58,2024-01-11 14:00:00,Electronics,Phoenix,59,68,0,Credit,In-Person
+1095,116.1,2024-02-15 14:00:00,Grocery,Los Angeles,40,66,1,Debit,Online
+917,147.94,2024-02-08 04:00:00,Clothing,Phoenix,43,40,1,Credit,Online
+1186,468.68,2024-02-19 09:00:00,Grocery,Phoenix,55,81,1,Debit,Online
+669,94.1,2024-01-28 20:00:00,Gas,New York,40,51,0,Credit,In-Person
+842,332.11,2024-02-05 01:00:00,Clothing,Phoenix,65,60,1,Credit,In-Person
+807,467.25,2024-02-03 14:00:00,Clothing,Chicago,42,114,1,Credit,In-Person
+1457,345.07,2024-03-01 16:00:00,Grocery,Houston,68,102,1,Credit,Online
+87,365.07,2024-01-04 14:00:00,Online,Houston,52,15,0,Debit,In-Person
+1422,254.11,2024-02-29 05:00:00,Online,Los Angeles,46,108,1,Credit,In-Person
+266,370.64,2024-01-12 01:00:00,Online,New York,62,33,0,Credit,Online
+288,271.78,2024-01-12 23:00:00,Grocery,Phoenix,58,84,0,Credit,In-Person
+1484,3.87,2024-03-02 19:00:00,Grocery,Phoenix,33,118,1,Credit,In-Person
+893,415.28,2024-02-07 04:00:00,Clothing,Houston,45,110,1,Credit,Online
+1496,334.44,2024-03-03 07:00:00,Electronics,Phoenix,49,38,1,Debit,Online
+979,248.69,2024-02-10 18:00:00,Electronics,Los Angeles,23,68,1,Credit,In-Person
+535,384.72,2024-01-23 06:00:00,Clothing,Los Angeles,42,65,0,Debit,Online
+1001,93.38,2024-02-11 16:00:00,Clothing,Los Angeles,42,1,1,Debit,In-Person
+222,284.59,2024-01-10 05:00:00,Clothing,New York,19,54,0,Credit,Online
+114,404.25,2024-01-05 17:00:00,Online,Los Angeles,34,48,0,Debit,In-Person
+673,41.04,2024-01-29 00:00:00,Grocery,Chicago,23,38,0,Credit,In-Person
+584,165.05,2024-01-25 07:00:00,Electronics,Phoenix,62,52,0,Credit,Online
+175,322.94,2024-01-08 06:00:00,Gas,Houston,64,15,0,Debit,In-Person
+536,472.44,2024-01-23 07:00:00,Grocery,New York,29,12,0,Debit,In-Person
+1079,109.91,2024-02-14 22:00:00,Gas,Houston,26,88,1,Debit,Online
+1177,390.14,2024-02-19 00:00:00,Clothing,New York,63,78,1,Debit,In-Person
+1107,198.72,2024-02-16 02:00:00,Online,Houston,42,119,1,Debit,In-Person
+983,54.19,2024-02-10 22:00:00,Gas,Phoenix,62,68,1,Debit,In-Person
+286,18.94,2024-01-12 21:00:00,Gas,Houston,50,48,0,Debit,Online
+868,91.78,2024-02-06 03:00:00,Electronics,Chicago,67,19,1,Debit,In-Person
+375,36.52,2024-01-16 14:00:00,Electronics,New York,48,12,0,Credit,Online
+1197,486.77,2024-02-19 20:00:00,Gas,Los Angeles,65,111,1,Credit,Online
+32,86.09,2024-01-02 07:00:00,Electronics,New York,29,87,0,Credit,Online
+552,426.24,2024-01-23 23:00:00,Electronics,Los Angeles,49,90,0,Debit,In-Person
+211,274.82,2024-01-09 18:00:00,Electronics,Los Angeles,47,52,0,Credit,Online
+1047,117.25,2024-02-13 14:00:00,Online,Los Angeles,32,38,1,Debit,In-Person
+924,400.13,2024-02-08 11:00:00,Grocery,Phoenix,40,84,1,Debit,Online
+810,57.51,2024-02-03 17:00:00,Gas,Chicago,63,19,1,Credit,In-Person
+618,139.16,2024-01-26 17:00:00,Grocery,Los Angeles,60,40,0,Credit,Online
+933,492.22,2024-02-08 20:00:00,Electronics,Houston,60,87,1,Debit,Online
+620,374.38,2024-01-26 19:00:00,Clothing,Chicago,21,23,0,Debit,In-Person
+189,265.3,2024-01-08 20:00:00,Electronics,Phoenix,21,82,0,Credit,In-Person
+711,380.35,2024-01-30 14:00:00,Gas,Houston,50,50,0,Debit,Online
+937,10.18,2024-02-09 00:00:00,Clothing,New York,50,77,1,Credit,In-Person
+1169,4.19,2024-02-18 16:00:00,Electronics,Houston,23,95,1,Debit,In-Person
+1220,137.36,2024-02-20 19:00:00,Clothing,New York,58,40,1,Debit,Online
+1098,94.03,2024-02-15 17:00:00,Clothing,New York,56,94,1,Debit,Online
+902,14.24,2024-02-07 13:00:00,Clothing,New York,33,21,1,Credit,In-Person
+84,32.72,2024-01-04 11:00:00,Clothing,Phoenix,66,80,0,Credit,In-Person
+702,26.86,2024-01-30 05:00:00,Online,Houston,61,63,0,Credit,Online
+49,273.81,2024-01-03 00:00:00,Gas,Chicago,42,71,0,Debit,In-Person
+1284,5.88,2024-02-23 11:00:00,Grocery,Los Angeles,42,38,1,Credit,In-Person
+156,121.79,2024-01-07 11:00:00,Gas,Los Angeles,19,101,0,Credit,Online
+1152,418.67,2024-02-17 23:00:00,Electronics,Houston,68,91,1,Credit,In-Person
+1142,174.56,2024-02-17 13:00:00,Grocery,Houston,55,103,1,Credit,Online
+975,16.56,2024-02-10 14:00:00,Grocery,New York,19,25,1,Credit,Online
+1058,201.56,2024-02-14 01:00:00,Grocery,Los Angeles,52,92,1,Credit,In-Person
+808,462.86,2024-02-03 15:00:00,Clothing,Los Angeles,34,37,1,Debit,Online
+1230,205.26,2024-02-21 05:00:00,Electronics,Los Angeles,65,117,1,Credit,Online
+1481,409.1,2024-03-02 16:00:00,Clothing,Los Angeles,21,36,1,Credit,In-Person
+1437,154.66,2024-02-29 20:00:00,Gas,Houston,55,55,1,Credit,Online
+180,69.62,2024-01-08 11:00:00,Grocery,Houston,36,90,0,Credit,Online
+1356,436.84,2024-02-26 11:00:00,Grocery,New York,53,97,1,Debit,Online
+1247,66.49,2024-02-21 22:00:00,Electronics,Chicago,35,32,1,Debit,In-Person
+1041,270.21,2024-02-13 08:00:00,Grocery,Houston,69,54,1,Credit,In-Person
+950,299.11,2024-02-09 13:00:00,Clothing,Phoenix,59,59,1,Debit,In-Person
+817,296.05,2024-02-04 00:00:00,Gas,Los Angeles,23,100,1,Credit,In-Person
+364,273.26,2024-01-16 03:00:00,Clothing,New York,40,110,0,Credit,Online
+1178,54.38,2024-02-19 01:00:00,Online,Los Angeles,41,13,1,Debit,In-Person
+1199,375.08,2024-02-19 22:00:00,Gas,Chicago,39,55,1,Debit,Online
+347,317.91,2024-01-15 10:00:00,Online,Los Angeles,23,72,0,Debit,In-Person
+1011,111.38,2024-02-12 02:00:00,Grocery,Phoenix,40,27,1,Debit,In-Person
+615,436.92,2024-01-26 14:00:00,Grocery,Chicago,21,113,0,Debit,Online
+966,178.48,2024-02-10 05:00:00,Clothing,Phoenix,30,118,1,Debit,Online
+1274,20.77,2024-02-23 01:00:00,Clothing,Houston,51,37,1,Debit,In-Person
+590,76.8,2024-01-25 13:00:00,Grocery,Los Angeles,59,15,0,Debit,In-Person
+1289,17.57,2024-02-23 16:00:00,Electronics,Houston,19,115,1,Credit,In-Person
+632,447.71,2024-01-27 07:00:00,Online,New York,69,12,0,Credit,In-Person
+244,185.71,2024-01-11 03:00:00,Gas,Chicago,34,26,0,Credit,Online
+1375,124.37,2024-02-27 06:00:00,Electronics,Chicago,35,99,1,Credit,Online
+1452,309.31,2024-03-01 11:00:00,Grocery,New York,38,8,1,Credit,In-Person
+765,17.73,2024-02-01 20:00:00,Gas,Chicago,46,80,1,Debit,Online
+988,217.98,2024-02-11 03:00:00,Electronics,New York,20,18,1,Debit,In-Person
+412,475.08,2024-01-18 03:00:00,Clothing,Los Angeles,57,93,0,Debit,Online
+1421,158.76,2024-02-29 04:00:00,Grocery,Phoenix,47,102,1,Credit,Online
+1226,319.62,2024-02-21 01:00:00,Online,Chicago,54,5,1,Credit,Online
+309,397.8,2024-01-13 20:00:00,Online,Phoenix,29,18,0,Credit,Online
+882,336.27,2024-02-06 17:00:00,Clothing,Chicago,68,95,1,Credit,In-Person
+399,375.68,2024-01-17 14:00:00,Online,Houston,57,12,0,Debit,Online
+371,51.29,2024-01-16 10:00:00,Grocery,Los Angeles,57,62,0,Credit,Online
+55,299.35,2024-01-03 06:00:00,Electronics,Los Angeles,42,43,0,Debit,In-Person
+1339,37.03,2024-02-25 18:00:00,Grocery,New York,50,96,1,Debit,Online
+1183,316.68,2024-02-19 06:00:00,Electronics,Los Angeles,45,104,1,Credit,Online
+313,13.65,2024-01-14 00:00:00,Online,Phoenix,49,94,0,Debit,In-Person
+922,244.23,2024-02-08 09:00:00,Grocery,Chicago,18,109,1,Credit,Online
+110,39.41,2024-01-05 13:00:00,Grocery,Los Angeles,57,75,0,Credit,In-Person
+719,63.02,2024-01-30 22:00:00,Clothing,Los Angeles,51,98,0,Credit,In-Person
+692,213.29,2024-01-29 19:00:00,Grocery,Phoenix,26,98,0,Credit,Online
+101,16.68,2024-01-05 04:00:00,Electronics,Houston,19,13,0,Debit,In-Person
+1126,275.88,2024-02-16 21:00:00,Clothing,New York,22,67,1,Credit,In-Person
+670,143.26,2024-01-28 21:00:00,Grocery,Phoenix,43,74,0,Credit,Online
+1376,435.5,2024-02-27 07:00:00,Clothing,Chicago,40,35,1,Credit,Online
+267,348.81,2024-01-12 02:00:00,Clothing,Chicago,20,13,0,Debit,Online
+679,484.77,2024-01-29 06:00:00,Clothing,New York,54,51,0,Credit,Online
+297,385.23,2024-01-13 08:00:00,Clothing,Los Angeles,60,100,0,Credit,In-Person
+530,432.5,2024-01-23 01:00:00,Online,New York,64,19,0,Credit,In-Person
+945,104.0,2024-02-09 08:00:00,Gas,Phoenix,41,7,1,Credit,In-Person
+1014,20.67,2024-02-12 05:00:00,Grocery,New York,33,76,1,Credit,In-Person
+951,300.66,2024-02-09 14:00:00,Clothing,Phoenix,24,20,1,Debit,In-Person
+378,12.61,2024-01-16 17:00:00,Electronics,Houston,29,42,0,Debit,Online
+287,233.33,2024-01-12 22:00:00,Clothing,Phoenix,30,2,0,Debit,Online
+1439,101.72,2024-02-29 22:00:00,Clothing,Chicago,40,21,1,Debit,Online
+731,82.97,2024-01-31 10:00:00,Clothing,New York,31,42,0,Debit,In-Person
+127,409.19,2024-01-06 06:00:00,Clothing,Chicago,54,57,0,Credit,In-Person
+328,306.25,2024-01-14 15:00:00,Grocery,New York,46,7,0,Debit,Online
+293,411.48,2024-01-13 04:00:00,Clothing,New York,62,55,0,Credit,In-Person
+549,260.63,2024-01-23 20:00:00,Gas,Chicago,69,83,0,Credit,In-Person
+728,397.84,2024-01-31 07:00:00,Online,Los Angeles,38,88,0,Debit,Online
+909,130.45,2024-02-07 20:00:00,Clothing,New York,65,97,1,Credit,Online
+356,321.57,2024-01-15 19:00:00,Grocery,New York,49,14,0,Debit,Online
+171,339.1,2024-01-08 02:00:00,Clothing,Los Angeles,53,9,0,Debit,In-Person
+967,359.8,2024-02-10 06:00:00,Clothing,Chicago,66,71,1,Credit,In-Person
+1134,110.87,2024-02-17 05:00:00,Clothing,Houston,21,93,1,Debit,Online
+652,269.02,2024-01-28 03:00:00,Gas,Houston,56,103,0,Debit,Online
+210,81.24,2024-01-09 17:00:00,Clothing,New York,59,72,0,Credit,Online
+1398,125.11,2024-02-28 05:00:00,Clothing,New York,43,102,1,Credit,In-Person
+141,481.26,2024-01-06 20:00:00,Clothing,Los Angeles,64,58,0,Credit,Online
+1084,439.68,2024-02-15 03:00:00,Online,Phoenix,59,95,1,Debit,Online
+991,399.91,2024-02-11 06:00:00,Gas,Chicago,41,83,1,Debit,Online
+651,44.37,2024-01-28 02:00:00,Online,Houston,65,77,0,Debit,Online
+1189,151.18,2024-02-19 12:00:00,Electronics,New York,43,77,1,Debit,Online
+1499,190.51,2024-03-03 10:00:00,Electronics,Los Angeles,18,117,1,Debit,Online
+486,450.68,2024-01-21 05:00:00,Electronics,Houston,36,31,0,Credit,In-Person
+528,137.43,2024-01-22 23:00:00,Electronics,Houston,25,101,0,Credit,In-Person
+200,390.16,2024-01-09 07:00:00,Grocery,New York,61,76,0,Credit,In-Person
+890,122.34,2024-02-07 01:00:00,Online,Houston,45,92,1,Debit,Online
+845,75.18,2024-02-05 04:00:00,Online,Los Angeles,25,8,1,Debit,In-Person
+1069,177.96,2024-02-14 12:00:00,Gas,Houston,21,78,1,Debit,In-Person
+1206,385.43,2024-02-20 05:00:00,Electronics,Houston,21,69,1,Debit,In-Person
+1055,498.97,2024-02-13 22:00:00,Clothing,Los Angeles,34,82,1,Debit,In-Person
+11,11.27,2024-01-01 10:00:00,Clothing,Chicago,49,26,0,Credit,In-Person
+148,251.84,2024-01-07 03:00:00,Clothing,Phoenix,54,24,0,Debit,In-Person
+722,91.44,2024-01-31 01:00:00,Electronics,Phoenix,39,39,0,Debit,Online
+283,188.42,2024-01-12 18:00:00,Electronics,New York,27,77,0,Debit,In-Person
+299,311.82,2024-01-13 10:00:00,Online,Phoenix,58,16,0,Credit,Online
+614,41.8,2024-01-26 13:00:00,Gas,Houston,51,109,0,Credit,In-Person
+292,19.64,2024-01-13 03:00:00,Electronics,Phoenix,33,3,0,Credit,Online
+650,249.72,2024-01-28 01:00:00,Gas,Houston,43,98,0,Debit,In-Person
+599,96.95,2024-01-25 22:00:00,Gas,New York,34,100,0,Credit,In-Person
+1044,313.32,2024-02-13 11:00:00,Grocery,Houston,69,71,1,Debit,Online
+553,276.4,2024-01-24 00:00:00,Clothing,Chicago,66,104,0,Debit,Online
+1299,318.58,2024-02-24 02:00:00,Clothing,New York,52,97,1,Debit,Online
+130,255.86,2024-01-06 09:00:00,Clothing,New York,33,62,0,Credit,Online
+1062,492.06,2024-02-14 05:00:00,Grocery,Houston,37,84,1,Credit,In-Person
+332,379.17,2024-01-14 19:00:00,Gas,New York,45,15,0,Debit,Online
+324,140.69,2024-01-14 11:00:00,Online,Los Angeles,19,53,0,Credit,In-Person
+681,408.72,2024-01-29 08:00:00,Grocery,Chicago,48,12,0,Debit,In-Person
+479,484.68,2024-01-20 22:00:00,Clothing,Los Angeles,39,23,0,Debit,Online
+562,107.27,2024-01-24 09:00:00,Online,Phoenix,67,101,0,Credit,In-Person
+136,162.28,2024-01-06 15:00:00,Clothing,New York,54,117,0,Credit,In-Person
+507,455.55,2024-01-22 02:00:00,Online,New York,48,30,0,Debit,Online
+514,433.17,2024-01-22 09:00:00,Clothing,Chicago,55,11,0,Credit,In-Person
+1372,91.31,2024-02-27 03:00:00,Online,Los Angeles,59,82,1,Debit,Online
+436,350.78,2024-01-19 03:00:00,Online,Chicago,64,61,0,Debit,Online
+874,204.96,2024-02-06 09:00:00,Gas,Chicago,43,97,1,Debit,Online
+1463,54.19,2024-03-01 22:00:00,Electronics,Houston,57,85,1,Debit,Online
+753,314.23,2024-02-01 08:00:00,Grocery,Phoenix,20,111,1,Debit,In-Person
+666,77.28,2024-01-28 17:00:00,Electronics,Los Angeles,24,105,0,Credit,In-Person
+159,119.58,2024-01-07 14:00:00,Clothing,Los Angeles,33,17,0,Credit,Online
+1254,63.47,2024-02-22 05:00:00,Gas,Houston,44,12,1,Credit,In-Person
+1293,284.2,2024-02-23 20:00:00,Electronics,Phoenix,42,79,1,Debit,Online
+576,474.81,2024-01-24 23:00:00,Gas,New York,45,73,0,Credit,In-Person
+353,329.69,2024-01-15 16:00:00,Grocery,New York,33,88,0,Debit,Online
+938,457.24,2024-02-09 01:00:00,Grocery,Houston,38,113,1,Credit,In-Person
+1296,100.87,2024-02-23 23:00:00,Online,Chicago,37,44,1,Debit,In-Person
+1393,85.71,2024-02-28 00:00:00,Online,Houston,69,69,1,Credit,In-Person
+1301,16.76,2024-02-24 04:00:00,Grocery,Houston,33,54,1,Credit,Online
+592,320.8,2024-01-25 15:00:00,Grocery,New York,69,7,0,Credit,Online
+665,51.79,2024-01-28 16:00:00,Online,New York,43,56,0,Credit,In-Person
+196,175.26,2024-01-09 03:00:00,Electronics,Chicago,54,19,0,Debit,In-Person
+1241,434.44,2024-02-21 16:00:00,Gas,Phoenix,48,71,1,Credit,In-Person
+1049,435.18,2024-02-13 16:00:00,Clothing,Chicago,57,9,1,Credit,In-Person
+439,353.41,2024-01-19 06:00:00,Clothing,Los Angeles,46,44,0,Debit,Online
+1436,15.96,2024-02-29 19:00:00,Clothing,Phoenix,34,80,1,Debit,In-Person
+644,164.42,2024-01-27 19:00:00,Gas,Houston,21,28,0,Debit,Online
+97,261.84,2024-01-05 00:00:00,Online,Los Angeles,29,2,0,Credit,In-Person
+585,317.07,2024-01-25 08:00:00,Online,Chicago,32,77,0,Debit,Online
+1215,347.15,2024-02-20 14:00:00,Electronics,New York,33,12,1,Credit,Online
+157,336.4,2024-01-07 12:00:00,Online,Los Angeles,39,45,0,Debit,In-Person
+420,376.43,2024-01-18 11:00:00,Clothing,Houston,42,86,0,Debit,In-Person
+411,160.34,2024-01-18 02:00:00,Clothing,Chicago,49,36,0,Credit,In-Person
+1223,216.74,2024-02-20 22:00:00,Grocery,Phoenix,50,45,1,Debit,Online
+478,277.37,2024-01-20 21:00:00,Electronics,Los Angeles,30,75,0,Debit,In-Person
+515,23.56,2024-01-22 10:00:00,Gas,Phoenix,51,66,0,Debit,In-Person
+1286,259.34,2024-02-23 13:00:00,Gas,Houston,31,117,1,Debit,In-Person
+1454,285.73,2024-03-01 13:00:00,Online,Los Angeles,23,117,1,Debit,In-Person
+1119,133.53,2024-02-16 14:00:00,Grocery,Chicago,59,15,1,Credit,Online
+448,376.94,2024-01-19 15:00:00,Grocery,Los Angeles,18,24,0,Credit,In-Person
+179,468.43,2024-01-08 10:00:00,Grocery,Los Angeles,68,19,0,Debit,Online
+391,495.26,2024-01-17 06:00:00,Clothing,Chicago,64,74,0,Debit,Online
+1290,40.21,2024-02-23 17:00:00,Electronics,Chicago,34,95,1,Debit,In-Person
+1308,401.06,2024-02-24 11:00:00,Grocery,Chicago,21,13,1,Debit,In-Person
+1367,358.2,2024-02-26 22:00:00,Online,Phoenix,30,66,1,Credit,In-Person
+1048,13.18,2024-02-13 15:00:00,Online,Phoenix,21,59,1,Credit,In-Person
+1143,339.33,2024-02-17 14:00:00,Electronics,Chicago,53,88,1,Debit,In-Person
+635,54.48,2024-01-27 10:00:00,Electronics,Phoenix,49,112,0,Credit,Online
+866,280.26,2024-02-06 01:00:00,Gas,Los Angeles,64,43,1,Debit,In-Person
+788,201.02,2024-02-02 19:00:00,Gas,New York,24,85,1,Credit,Online
+745,116.87,2024-02-01 00:00:00,Clothing,New York,59,71,0,Debit,In-Person
+860,33.79,2024-02-05 19:00:00,Electronics,Los Angeles,19,62,1,Debit,Online
+295,64.4,2024-01-13 06:00:00,Electronics,Phoenix,37,40,0,Credit,In-Person
+545,309.45,2024-01-23 16:00:00,Online,New York,41,26,0,Credit,Online
+1363,311.86,2024-02-26 18:00:00,Grocery,Phoenix,41,39,1,Credit,Online
+89,443.72,2024-01-04 16:00:00,Clothing,Chicago,33,27,0,Debit,Online
+1032,298.54,2024-02-12 23:00:00,Electronics,New York,49,27,1,Credit,Online
+1380,296.88,2024-02-27 11:00:00,Clothing,Los Angeles,21,1,1,Debit,Online
+577,74.39,2024-01-25 00:00:00,Clothing,Chicago,34,32,0,Credit,Online
+907,408.9,2024-02-07 18:00:00,Grocery,Los Angeles,33,93,1,Credit,Online
+1388,66.31,2024-02-27 19:00:00,Grocery,Los Angeles,39,2,1,Debit,In-Person
+1092,325.17,2024-02-15 11:00:00,Online,New York,69,12,1,Debit,In-Person
+944,415.04,2024-02-09 07:00:00,Clothing,Phoenix,35,83,1,Debit,Online
+291,16.22,2024-01-13 02:00:00,Grocery,New York,54,46,0,Debit,Online
+1419,226.65,2024-02-29 02:00:00,Gas,Chicago,39,109,1,Credit,In-Person
+1019,457.83,2024-02-12 10:00:00,Grocery,Houston,36,109,1,Credit,In-Person
+349,187.93,2024-01-15 12:00:00,Online,New York,62,11,0,Credit,Online
+568,219.3,2024-01-24 15:00:00,Gas,Phoenix,46,26,0,Credit,In-Person
+1413,135.61,2024-02-28 20:00:00,Online,Phoenix,66,74,1,Debit,Online
+1059,240.46,2024-02-14 02:00:00,Clothing,Los Angeles,69,30,1,Credit,Online
+600,21.39,2024-01-25 23:00:00,Online,Phoenix,35,85,0,Credit,Online
+459,29.1,2024-01-20 02:00:00,Clothing,Houston,20,59,0,Debit,In-Person
+376,160.17,2024-01-16 15:00:00,Clothing,Chicago,31,103,0,Credit,Online
+334,58.92,2024-01-14 21:00:00,Clothing,Houston,56,3,0,Credit,Online
+757,310.42,2024-02-01 12:00:00,Clothing,Houston,46,48,1,Credit,Online
+1324,110.39,2024-02-25 03:00:00,Grocery,Chicago,57,109,1,Debit,In-Person
+712,298.22,2024-01-30 15:00:00,Grocery,Chicago,61,79,0,Debit,Online
+1390,227.44,2024-02-27 21:00:00,Online,Los Angeles,21,108,1,Debit,Online
+567,196.73,2024-01-24 14:00:00,Gas,New York,42,7,0,Debit,In-Person
+329,210.38,2024-01-14 16:00:00,Gas,New York,32,59,0,Debit,Online
+319,79.06,2024-01-14 06:00:00,Online,Houston,18,48,0,Debit,Online
+1303,26.93,2024-02-24 06:00:00,Grocery,Chicago,66,35,1,Debit,In-Person
+953,88.51,2024-02-09 16:00:00,Gas,Chicago,65,17,1,Debit,Online
+13,416.39,2024-01-01 12:00:00,Gas,Houston,21,7,0,Debit,In-Person
+172,9.28,2024-01-08 03:00:00,Gas,Houston,39,77,0,Debit,In-Person
+261,307.89,2024-01-11 20:00:00,Online,Phoenix,28,30,0,Debit,Online
+820,168.26,2024-02-04 03:00:00,Online,Houston,60,19,1,Debit,In-Person
+1495,302.12,2024-03-03 06:00:00,Clothing,Houston,39,48,1,Debit,In-Person
+797,466.13,2024-02-03 04:00:00,Online,Los Angeles,18,53,1,Credit,In-Person
+139,182.45,2024-01-06 18:00:00,Clothing,Phoenix,32,94,0,Debit,In-Person
+550,386.39,2024-01-23 21:00:00,Grocery,New York,21,29,0,Debit,In-Person
+616,460.52,2024-01-26 15:00:00,Grocery,Phoenix,34,91,0,Debit,In-Person
+846,207.9,2024-02-05 05:00:00,Gas,Phoenix,23,65,1,Credit,Online
+778,361.4,2024-02-02 09:00:00,Grocery,New York,40,67,1,Credit,Online
+559,377.81,2024-01-24 06:00:00,Clothing,Los Angeles,40,28,0,Credit,In-Person
+140,485.92,2024-01-06 19:00:00,Online,New York,53,40,0,Debit,Online
+1310,407.6,2024-02-24 13:00:00,Grocery,Chicago,56,80,1,Credit,Online
+1024,485.56,2024-02-12 15:00:00,Electronics,New York,57,96,1,Debit,Online
+225,133.34,2024-01-10 08:00:00,Gas,Phoenix,34,49,0,Debit,Online
+964,195.26,2024-02-10 03:00:00,Clothing,Phoenix,65,82,1,Credit,In-Person
+410,46.55,2024-01-18 01:00:00,Grocery,Phoenix,40,8,0,Credit,In-Person
+326,369.21,2024-01-14 13:00:00,Electronics,Chicago,31,101,0,Debit,In-Person
+300,43.59,2024-01-13 11:00:00,Electronics,Houston,33,83,0,Debit,Online
+994,295.53,2024-02-11 09:00:00,Clothing,New York,66,17,1,Debit,In-Person
+1033,115.77,2024-02-13 00:00:00,Clothing,Chicago,58,92,1,Debit,Online
+671,87.51,2024-01-28 22:00:00,Electronics,Phoenix,62,43,0,Debit,Online
+1480,218.36,2024-03-02 15:00:00,Clothing,Chicago,62,80,1,Credit,In-Person
+947,69.31,2024-02-09 10:00:00,Online,Chicago,64,63,1,Credit,Online
+1270,146.54,2024-02-22 21:00:00,Gas,Houston,69,79,1,Debit,In-Person
+574,311.42,2024-01-24 21:00:00,Clothing,Chicago,52,40,0,Debit,In-Person
+504,407.08,2024-01-21 23:00:00,Clothing,Los Angeles,68,110,0,Credit,Online
+1038,362.66,2024-02-13 05:00:00,Clothing,New York,59,82,1,Debit,Online
+4,299.73,2024-01-01 03:00:00,Electronics,Chicago,23,83,0,Credit,In-Person
+1469,435.51,2024-03-02 04:00:00,Grocery,Los Angeles,27,31,1,Credit,In-Person
+468,434.43,2024-01-20 11:00:00,Online,New York,26,42,0,Credit,In-Person
+322,357.58,2024-01-14 09:00:00,Electronics,New York,41,84,0,Credit,In-Person
+6,78.84,2024-01-01 05:00:00,Grocery,Chicago,20,6,0,Debit,In-Person
+974,108.26,2024-02-10 13:00:00,Grocery,Houston,58,102,1,Credit,In-Person
+548,336.12,2024-01-23 19:00:00,Clothing,Phoenix,42,13,0,Debit,Online
+1477,404.12,2024-03-02 12:00:00,Online,Los Angeles,32,10,1,Credit,In-Person
+40,220.64,2024-01-02 15:00:00,Online,Houston,40,79,0,Credit,In-Person
+543,115.09,2024-01-23 14:00:00,Clothing,Chicago,54,112,0,Credit,Online
+243,457.52,2024-01-11 02:00:00,Gas,Chicago,48,43,0,Credit,Online
+137,259.88,2024-01-06 16:00:00,Electronics,Houston,46,50,0,Debit,In-Person
+603,89.33,2024-01-26 02:00:00,Electronics,Chicago,27,4,0,Credit,In-Person
+773,64.62,2024-02-02 04:00:00,Clothing,New York,68,64,1,Credit,In-Person
+847,43.59,2024-02-05 06:00:00,Clothing,Phoenix,33,92,1,Debit,Online
+1091,471.42,2024-02-15 10:00:00,Electronics,Los Angeles,26,102,1,Debit,In-Person
+1366,66.65,2024-02-26 21:00:00,Online,Chicago,35,46,1,Debit,Online
+582,490.04,2024-01-25 05:00:00,Grocery,Houston,69,75,0,Debit,Online
+1475,164.19,2024-03-02 10:00:00,Grocery,Houston,24,94,1,Debit,In-Person
+789,231.54,2024-02-02 20:00:00,Electronics,Phoenix,55,56,1,Debit,In-Person
+1389,484.94,2024-02-27 20:00:00,Grocery,Phoenix,18,82,1,Credit,Online
+377,422.59,2024-01-16 16:00:00,Grocery,Chicago,23,4,0,Credit,Online
+315,418.15,2024-01-14 02:00:00,Electronics,Chicago,65,51,0,Credit,Online
+443,187.76,2024-01-19 10:00:00,Gas,Houston,37,6,0,Debit,Online
+320,125.87,2024-01-14 07:00:00,Online,Phoenix,68,19,0,Debit,In-Person
+1479,399.11,2024-03-02 14:00:00,Clothing,New York,63,118,1,Credit,In-Person
+794,306.12,2024-02-03 01:00:00,Grocery,Houston,66,58,1,Credit,In-Person
+1133,41.44,2024-02-17 04:00:00,Online,Los Angeles,58,76,1,Debit,In-Person
+425,29.72,2024-01-18 16:00:00,Electronics,Houston,22,39,0,Credit,In-Person
+554,280.91,2024-01-24 01:00:00,Online,Houston,24,58,0,Credit,In-Person
+595,448.5,2024-01-25 18:00:00,Gas,New York,42,32,0,Credit,In-Person
+894,199.19,2024-02-07 05:00:00,Clothing,New York,69,87,1,Credit,In-Person
+1482,60.98,2024-03-02 17:00:00,Electronics,Los Angeles,31,84,1,Credit,Online
+1218,340.57,2024-02-20 17:00:00,Online,Chicago,61,97,1,Credit,Online
+1165,81.22,2024-02-18 12:00:00,Gas,Phoenix,27,40,1,Credit,In-Person
+228,197.16,2024-01-10 11:00:00,Online,Los Angeles,33,118,0,Debit,In-Person
+715,175.09,2024-01-30 18:00:00,Online,New York,21,80,0,Credit,Online
+811,492.44,2024-02-03 18:00:00,Online,Chicago,65,30,1,Credit,Online
+980,298.82,2024-02-10 19:00:00,Clothing,Chicago,28,88,1,Debit,Online
+1076,214.46,2024-02-14 19:00:00,Clothing,Houston,20,55,1,Credit,In-Person
+67,71.32,2024-01-03 18:00:00,Clothing,Los Angeles,51,90,0,Credit,Online
+394,388.43,2024-01-17 09:00:00,Gas,Phoenix,22,8,0,Credit,Online
+580,129.86,2024-01-25 03:00:00,Online,Los Angeles,63,13,0,Credit,Online
+990,409.73,2024-02-11 05:00:00,Grocery,Los Angeles,50,57,1,Debit,Online
+212,346.26,2024-01-09 19:00:00,Clothing,Phoenix,48,100,0,Credit,Online
+1160,15.59,2024-02-18 07:00:00,Gas,Phoenix,34,59,1,Debit,In-Person
+782,271.82,2024-02-02 13:00:00,Electronics,Houston,65,114,1,Debit,In-Person
+537,424.97,2024-01-23 08:00:00,Clothing,Los Angeles,43,24,0,Credit,In-Person
+775,398.85,2024-02-02 06:00:00,Grocery,Chicago,20,108,1,Debit,Online
+662,493.27,2024-01-28 13:00:00,Online,Phoenix,47,53,0,Debit,Online
+86,163.27,2024-01-04 13:00:00,Grocery,Houston,35,32,0,Credit,Online
+1350,21.01,2024-02-26 05:00:00,Gas,Phoenix,60,4,1,Credit,In-Person
+1217,42.11,2024-02-20 16:00:00,Electronics,Chicago,24,74,1,Credit,Online
+916,218.63,2024-02-08 03:00:00,Grocery,Chicago,38,105,1,Debit,In-Person
+661,178.69,2024-01-28 12:00:00,Electronics,Phoenix,29,68,0,Credit,In-Person
+1351,433.65,2024-02-26 06:00:00,Gas,Houston,49,3,1,Debit,In-Person
+631,356.96,2024-01-27 06:00:00,Clothing,Los Angeles,67,44,0,Debit,Online
+1034,61.16,2024-02-13 01:00:00,Electronics,Chicago,65,18,1,Debit,In-Person
+1400,353.68,2024-02-28 07:00:00,Electronics,Los Angeles,26,31,1,Credit,In-Person
+1093,304.26,2024-02-15 12:00:00,Electronics,Los Angeles,24,103,1,Credit,In-Person
+274,456.71,2024-01-12 09:00:00,Grocery,Chicago,66,28,0,Debit,Online
+723,34.18,2024-01-31 02:00:00,Grocery,Los Angeles,19,96,0,Debit,In-Person
+363,229.67,2024-01-16 02:00:00,Online,Chicago,20,119,0,Debit,Online
+623,185.87,2024-01-26 22:00:00,Clothing,Phoenix,47,61,0,Debit,In-Person
+3,366.26,2024-01-01 02:00:00,Electronics,Los Angeles,37,70,0,Credit,Online
+7,29.98,2024-01-01 06:00:00,Clothing,New York,59,45,0,Credit,In-Person
+312,40.15,2024-01-13 23:00:00,Electronics,Los Angeles,27,118,0,Credit,In-Person
+1168,254.23,2024-02-18 15:00:00,Online,New York,42,35,1,Debit,Online
+939,59.76,2024-02-09 02:00:00,Electronics,Chicago,56,87,1,Credit,Online
+1478,381.38,2024-03-02 13:00:00,Gas,Phoenix,51,29,1,Debit,In-Person
+216,119.39,2024-01-09 23:00:00,Online,Phoenix,36,46,0,Credit,In-Person
+1321,124.3,2024-02-25 00:00:00,Clothing,New York,68,91,1,Credit,Online
+28,257.6,2024-01-02 03:00:00,Electronics,New York,30,2,0,Credit,In-Person
+1466,25.06,2024-03-02 01:00:00,Grocery,Los Angeles,45,8,1,Credit,In-Person
+1025,472.19,2024-02-12 16:00:00,Electronics,Houston,35,62,1,Credit,In-Person
+786,454.32,2024-02-02 17:00:00,Online,Houston,24,76,1,Debit,In-Person
+639,135.35,2024-01-27 14:00:00,Clothing,Houston,46,12,0,Credit,In-Person
+830,226.66,2024-02-04 13:00:00,Gas,Phoenix,44,55,1,Credit,In-Person
+827,173.83,2024-02-04 10:00:00,Clothing,Houston,35,34,1,Debit,Online
+625,309.51,2024-01-27 00:00:00,Clothing,Phoenix,26,104,0,Credit,In-Person
+850,298.1,2024-02-05 09:00:00,Clothing,Los Angeles,56,78,1,Debit,In-Person
+257,468.14,2024-01-11 16:00:00,Clothing,Los Angeles,21,75,0,Debit,In-Person
+26,392.8,2024-01-02 01:00:00,Gas,Los Angeles,65,69,0,Debit,Online
+337,427.87,2024-01-15 00:00:00,Clothing,Chicago,27,53,0,Credit,Online
+573,198.87,2024-01-24 20:00:00,Grocery,Los Angeles,31,23,0,Credit,In-Person
+48,260.51,2024-01-02 23:00:00,Grocery,Phoenix,47,23,0,Debit,In-Person
+107,205.78,2024-01-05 10:00:00,Electronics,Chicago,24,63,0,Debit,In-Person
+350,313.3,2024-01-15 13:00:00,Electronics,Los Angeles,53,38,0,Debit,Online
+56,461.02,2024-01-03 07:00:00,Online,Los Angeles,27,7,0,Credit,In-Person
+809,225.97,2024-02-03 16:00:00,Grocery,Chicago,43,77,1,Credit,Online
+214,112.91,2024-01-09 21:00:00,Clothing,Phoenix,38,118,0,Credit,Online
+121,403.91,2024-01-06 00:00:00,Clothing,Houston,33,40,0,Credit,In-Person
+870,473.11,2024-02-06 05:00:00,Gas,Los Angeles,28,50,1,Debit,In-Person
+856,96.15,2024-02-05 15:00:00,Electronics,Phoenix,37,17,1,Credit,Online
+73,3.76,2024-01-04 00:00:00,Grocery,Los Angeles,38,81,0,Credit,In-Person
+1381,82.6,2024-02-27 12:00:00,Online,Phoenix,20,25,1,Debit,Online
+721,469.23,2024-01-31 00:00:00,Gas,New York,41,1,0,Credit,Online
+46,331.6,2024-01-02 21:00:00,Clothing,New York,69,41,0,Debit,In-Person
+1264,228.15,2024-02-22 15:00:00,Gas,Los Angeles,51,70,1,Debit,In-Person
+524,421.22,2024-01-22 19:00:00,Online,Phoenix,45,68,0,Debit,In-Person
+869,431.03,2024-02-06 04:00:00,Online,Los Angeles,64,100,1,Credit,In-Person
+1108,379.36,2024-02-16 03:00:00,Clothing,Los Angeles,48,103,1,Credit,In-Person
+1275,240.77,2024-02-23 02:00:00,Gas,Houston,32,49,1,Credit,Online
+803,288.57,2024-02-03 10:00:00,Grocery,Houston,66,37,1,Debit,Online
+534,278.16,2024-01-23 05:00:00,Electronics,Phoenix,21,80,0,Credit,Online
+1138,248.08,2024-02-17 09:00:00,Gas,Chicago,52,13,1,Credit,Online
+604,45.26,2024-01-26 03:00:00,Electronics,Phoenix,27,11,0,Debit,In-Person
+466,188.06,2024-01-20 09:00:00,Clothing,New York,62,76,0,Debit,In-Person
+1203,12.04,2024-02-20 02:00:00,Gas,Chicago,18,58,1,Credit,In-Person
+1278,493.34,2024-02-23 05:00:00,Gas,Houston,46,22,1,Credit,In-Person
+1444,222.43,2024-03-01 03:00:00,Gas,Chicago,20,90,1,Credit,In-Person
+989,123.95,2024-02-11 04:00:00,Electronics,New York,52,42,1,Debit,In-Person
+61,194.95,2024-01-03 12:00:00,Clothing,Los Angeles,58,52,0,Credit,In-Person
+886,90.09,2024-02-06 21:00:00,Grocery,Houston,36,71,1,Debit,In-Person
+93,380.63,2024-01-04 20:00:00,Electronics,Houston,64,110,0,Credit,Online
+667,123.73,2024-01-28 18:00:00,Grocery,Los Angeles,18,72,0,Credit,In-Person
+706,494.99,2024-01-30 09:00:00,Clothing,New York,60,78,0,Debit,Online
+195,170.18,2024-01-09 02:00:00,Grocery,Los Angeles,28,42,0,Credit,Online
+281,445.11,2024-01-12 16:00:00,Grocery,Chicago,42,87,0,Debit,In-Person
+696,305.7,2024-01-29 23:00:00,Online,New York,50,9,0,Credit,Online
+360,288.16,2024-01-15 23:00:00,Grocery,Houston,37,12,0,Debit,In-Person
+520,76.06,2024-01-22 15:00:00,Clothing,Phoenix,69,47,0,Credit,In-Person
+813,63.21,2024-02-03 20:00:00,Clothing,New York,58,18,1,Credit,Online
+768,438.51,2024-02-01 23:00:00,Grocery,New York,25,77,1,Credit,In-Person
+183,462.42,2024-01-08 14:00:00,Online,Phoenix,69,89,0,Debit,Online
+1487,198.69,2024-03-02 22:00:00,Clothing,Houston,36,71,1,Debit,Online
+111,145.59,2024-01-05 14:00:00,Online,Phoenix,29,74,0,Credit,Online
+43,18.16,2024-01-02 18:00:00,Online,Chicago,64,29,0,Debit,Online
+1007,346.45,2024-02-11 22:00:00,Grocery,Chicago,33,24,1,Debit,Online
+205,303.61,2024-01-09 12:00:00,Online,Chicago,59,107,0,Debit,Online
+821,401.62,2024-02-04 04:00:00,Electronics,New York,42,109,1,Credit,In-Person
+53,469.81,2024-01-03 04:00:00,Grocery,New York,65,31,0,Debit,Online
+546,179.72,2024-01-23 17:00:00,Gas,Houston,33,30,0,Credit,In-Person
+1132,248.44,2024-02-17 03:00:00,Electronics,Houston,41,67,1,Debit,Online
+1158,440.55,2024-02-18 05:00:00,Online,New York,36,4,1,Credit,In-Person
+1468,204.05,2024-03-02 03:00:00,Gas,Phoenix,53,46,1,Credit,In-Person
+911,295.56,2024-02-07 22:00:00,Gas,Chicago,62,109,1,Credit,Online
+184,438.79,2024-01-08 15:00:00,Grocery,Chicago,64,26,0,Credit,In-Person
+138,351.81,2024-01-06 17:00:00,Grocery,Chicago,20,112,0,Debit,In-Person
+1150,433.78,2024-02-17 21:00:00,Electronics,Chicago,64,74,1,Credit,Online
+81,431.69,2024-01-04 08:00:00,Online,Phoenix,35,64,0,Credit,Online
+1213,82.65,2024-02-20 12:00:00,Grocery,Houston,18,53,1,Debit,Online
+106,125.4,2024-01-05 09:00:00,Grocery,Los Angeles,25,22,0,Credit,In-Person
+542,303.48,2024-01-23 13:00:00,Clothing,Houston,68,57,0,Debit,In-Person
+1314,408.83,2024-02-24 17:00:00,Grocery,Houston,34,92,1,Debit,Online
+481,315.07,2024-01-21 00:00:00,Electronics,Chicago,69,57,0,Credit,Online
+166,417.82,2024-01-07 21:00:00,Online,Los Angeles,40,82,0,Credit,In-Person
+249,481.85,2024-01-11 08:00:00,Online,Chicago,18,26,0,Debit,Online
+308,162.16,2024-01-13 19:00:00,Electronics,New York,26,22,0,Debit,Online
+447,493.01,2024-01-19 14:00:00,Online,Phoenix,64,38,0,Credit,Online
+747,192.56,2024-02-01 02:00:00,Clothing,New York,27,2,0,Credit,In-Person
+335,23.96,2024-01-14 22:00:00,Electronics,Houston,41,69,0,Credit,In-Person
+98,214.34,2024-01-05 01:00:00,Grocery,New York,30,36,0,Debit,In-Person
+760,394.51,2024-02-01 15:00:00,Gas,New York,23,98,1,Credit,In-Person
+738,408.48,2024-01-31 17:00:00,Gas,Phoenix,26,23,0,Credit,Online
+837,457.51,2024-02-04 20:00:00,Clothing,Houston,45,69,1,Credit,In-Person
+943,326.06,2024-02-09 06:00:00,Grocery,Phoenix,61,19,1,Debit,In-Person
+103,157.86,2024-01-05 06:00:00,Clothing,New York,44,89,0,Credit,In-Person
+435,42.97,2024-01-19 02:00:00,Clothing,New York,56,118,0,Credit,Online
+75,353.72,2024-01-04 02:00:00,Online,Los Angeles,62,74,0,Debit,In-Person
+1341,129.58,2024-02-25 20:00:00,Online,New York,24,48,1,Debit,In-Person
+1125,327.97,2024-02-16 20:00:00,Electronics,Phoenix,37,32,1,Debit,In-Person
+1360,296.58,2024-02-26 15:00:00,Gas,Phoenix,40,27,1,Credit,In-Person
+303,270.78,2024-01-13 14:00:00,Gas,Houston,43,110,0,Debit,In-Person
+1263,155.87,2024-02-22 14:00:00,Grocery,Houston,58,110,1,Debit,Online
+1224,471.86,2024-02-20 23:00:00,Gas,New York,67,35,1,Credit,Online
+734,262.01,2024-01-31 13:00:00,Clothing,Phoenix,49,90,0,Credit,In-Person
+389,375.56,2024-01-17 04:00:00,Electronics,New York,34,12,0,Debit,Online
+236,361.5,2024-01-10 19:00:00,Grocery,New York,38,6,0,Credit,Online
+1246,313.48,2024-02-21 21:00:00,Clothing,Chicago,40,63,1,Debit,Online
+268,351.54,2024-01-12 03:00:00,Gas,Houston,29,78,0,Debit,In-Person
+306,487.95,2024-01-13 17:00:00,Electronics,Chicago,29,64,0,Debit,Online
+118,94.1,2024-01-05 21:00:00,Grocery,Houston,25,41,0,Debit,Online
+1212,226.24,2024-02-20 11:00:00,Gas,New York,44,57,1,Debit,Online
+674,262.73,2024-01-29 01:00:00,Electronics,Phoenix,61,15,0,Credit,In-Person
+250,426.65,2024-01-11 09:00:00,Electronics,Chicago,64,45,0,Debit,In-Person
+1094,256.83,2024-02-15 13:00:00,Electronics,Phoenix,19,18,1,Debit,In-Person
+1080,475.03,2024-02-14 23:00:00,Electronics,Los Angeles,47,89,1,Credit,In-Person
+72,100.16,2024-01-03 23:00:00,Online,Chicago,38,60,0,Debit,In-Person
+95,385.71,2024-01-04 22:00:00,Gas,New York,65,114,0,Credit,In-Person
+848,498.44,2024-02-05 07:00:00,Grocery,Los Angeles,41,113,1,Credit,In-Person
+34,474.49,2024-01-02 09:00:00,Electronics,Los Angeles,31,119,0,Debit,Online
+1101,29.86,2024-02-15 20:00:00,Online,Houston,46,68,1,Debit,In-Person
+449,188.75,2024-01-19 16:00:00,Clothing,Los Angeles,34,51,0,Credit,Online
+446,473.68,2024-01-19 13:00:00,Gas,Houston,18,114,0,Credit,In-Person
+772,423.38,2024-02-02 03:00:00,Electronics,Los Angeles,21,80,1,Debit,In-Person
+717,415.48,2024-01-30 20:00:00,Clothing,Chicago,21,116,0,Credit,In-Person
+887,326.72,2024-02-06 22:00:00,Gas,Houston,35,58,1,Credit,Online
+1245,380.75,2024-02-21 20:00:00,Gas,New York,69,41,1,Debit,Online
+901,104.74,2024-02-07 12:00:00,Gas,Los Angeles,57,5,1,Credit,In-Person
+1036,348.45,2024-02-13 03:00:00,Electronics,Phoenix,56,49,1,Debit,Online
+78,37.95,2024-01-04 05:00:00,Gas,New York,19,111,0,Debit,Online
+85,156.18,2024-01-04 12:00:00,Online,Phoenix,68,41,0,Debit,In-Person
+835,249.69,2024-02-04 18:00:00,Grocery,Houston,49,77,1,Debit,In-Person
+83,166.12,2024-01-04 10:00:00,Clothing,Chicago,33,56,0,Debit,Online
+458,234.86,2024-01-20 01:00:00,Grocery,Phoenix,50,33,0,Credit,Online
+919,382.04,2024-02-08 06:00:00,Clothing,Chicago,38,25,1,Credit,Online
+677,56.91,2024-01-29 04:00:00,Online,Phoenix,39,83,0,Debit,In-Person
+985,364.37,2024-02-11 00:00:00,Online,Phoenix,31,24,1,Debit,Online
+1240,93.58,2024-02-21 15:00:00,Online,Los Angeles,65,109,1,Credit,Online
+437,37.31,2024-01-19 04:00:00,Grocery,Phoenix,41,44,0,Credit,Online
+771,56.21,2024-02-02 02:00:00,Gas,Chicago,64,68,1,Debit,Online
+645,60.76,2024-01-27 20:00:00,Grocery,Chicago,54,56,0,Debit,Online
+1120,65.63,2024-02-16 15:00:00,Clothing,Los Angeles,23,78,1,Debit,In-Person
+906,446.44,2024-02-07 17:00:00,Grocery,Los Angeles,39,57,1,Debit,Online
+1194,310.84,2024-02-19 17:00:00,Online,Phoenix,25,43,1,Credit,In-Person
+405,160.7,2024-01-17 20:00:00,Grocery,Houston,52,100,0,Credit,Online
+1304,271.11,2024-02-24 07:00:00,Gas,Chicago,60,98,1,Debit,In-Person
+934,263.32,2024-02-08 21:00:00,Clothing,Phoenix,35,70,1,Credit,In-Person
+1486,183.86,2024-03-02 21:00:00,Electronics,Phoenix,49,86,1,Debit,In-Person
+105,453.88,2024-01-05 08:00:00,Online,New York,32,60,0,Debit,Online
+610,345.51,2024-01-26 09:00:00,Clothing,Houston,69,93,0,Credit,In-Person
+1456,465.54,2024-03-01 15:00:00,Clothing,Chicago,18,64,1,Debit,Online
+689,384.98,2024-01-29 16:00:00,Gas,New York,47,25,0,Credit,Online
+949,437.07,2024-02-09 12:00:00,Electronics,Houston,68,42,1,Credit,Online
+932,417.63,2024-02-08 19:00:00,Electronics,Chicago,30,112,1,Debit,In-Person
+63,414.54,2024-01-03 14:00:00,Online,Los Angeles,31,6,0,Credit,In-Person
+282,169.66,2024-01-12 17:00:00,Gas,Los Angeles,49,79,0,Debit,Online
+779,360.3,2024-02-02 10:00:00,Electronics,Los Angeles,33,86,1,Debit,Online
+1394,260.37,2024-02-28 01:00:00,Grocery,New York,67,9,1,Debit,Online
+239,323.09,2024-01-10 22:00:00,Clothing,New York,43,80,0,Debit,Online
+224,184.49,2024-01-10 07:00:00,Electronics,Los Angeles,41,1,0,Credit,In-Person
+146,19.41,2024-01-07 01:00:00,Online,Houston,59,55,0,Credit,In-Person
+1399,308.96,2024-02-28 06:00:00,Grocery,Los Angeles,31,61,1,Debit,In-Person
+374,341.82,2024-01-16 13:00:00,Gas,Los Angeles,56,1,0,Credit,In-Person
+1229,492.0,2024-02-21 04:00:00,Gas,Chicago,52,71,1,Debit,Online
+119,446.39,2024-01-05 22:00:00,Grocery,Phoenix,22,45,0,Debit,In-Person
+1167,416.23,2024-02-18 14:00:00,Electronics,Los Angeles,53,54,1,Credit,Online
+251,147.93,2024-01-11 10:00:00,Online,Phoenix,45,84,0,Debit,Online
+1445,434.2,2024-03-01 04:00:00,Gas,Houston,36,58,1,Debit,Online
+1023,462.27,2024-02-12 14:00:00,Gas,Los Angeles,61,59,1,Debit,Online
+10,354.33,2024-01-01 09:00:00,Electronics,Phoenix,34,23,0,Credit,In-Person
+450,42.67,2024-01-19 17:00:00,Grocery,New York,19,10,0,Credit,Online
+883,10.84,2024-02-06 18:00:00,Grocery,Houston,60,6,1,Debit,In-Person
+709,128.07,2024-01-30 12:00:00,Online,Chicago,55,41,0,Credit,Online
+256,278.84,2024-01-11 15:00:00,Clothing,Houston,41,26,0,Credit,Online
+594,173.49,2024-01-25 17:00:00,Electronics,Chicago,40,28,0,Debit,In-Person
+390,403.61,2024-01-17 05:00:00,Online,New York,58,81,0,Credit,Online
+1088,84.35,2024-02-15 07:00:00,Gas,Houston,29,108,1,Debit,In-Person
+1201,379.37,2024-02-20 00:00:00,Online,Phoenix,26,99,1,Credit,Online
+558,15.36,2024-01-24 05:00:00,Electronics,New York,58,108,0,Credit,In-Person
+1288,175.96,2024-02-23 15:00:00,Gas,Houston,44,94,1,Credit,In-Person
+840,316.5,2024-02-04 23:00:00,Gas,New York,63,102,1,Credit,Online
+461,59.65,2024-01-20 04:00:00,Electronics,Phoenix,22,56,0,Credit,Online
+724,370.82,2024-01-31 03:00:00,Online,Los Angeles,61,90,0,Credit,Online
+1382,196.15,2024-02-27 13:00:00,Online,Chicago,24,43,1,Credit,In-Person
+145,143.14,2024-01-07 00:00:00,Electronics,Houston,30,18,0,Credit,In-Person
+502,268.51,2024-01-21 21:00:00,Grocery,Chicago,65,118,0,Debit,Online
+1099,390.01,2024-02-15 18:00:00,Electronics,Los Angeles,38,108,1,Debit,In-Person
+740,189.1,2024-01-31 19:00:00,Gas,New York,39,4,0,Credit,In-Person
+1385,328.71,2024-02-27 16:00:00,Grocery,Houston,24,67,1,Debit,Online
+732,407.47,2024-01-31 11:00:00,Grocery,Phoenix,56,118,0,Debit,Online
+540,65.45,2024-01-23 11:00:00,Electronics,Los Angeles,29,8,0,Credit,In-Person
+178,193.98,2024-01-08 09:00:00,Clothing,Phoenix,56,119,0,Debit,In-Person
+1447,346.62,2024-03-01 06:00:00,Electronics,Chicago,51,102,1,Debit,In-Person
+698,291.04,2024-01-30 01:00:00,Electronics,Los Angeles,32,53,0,Credit,Online
+941,137.75,2024-02-09 04:00:00,Grocery,Chicago,44,81,1,Debit,Online
+1050,11.61,2024-02-13 17:00:00,Grocery,Chicago,26,73,1,Credit,Online
+923,447.38,2024-02-08 10:00:00,Electronics,Phoenix,23,55,1,Credit,Online
+899,7.49,2024-02-07 10:00:00,Grocery,Phoenix,51,25,1,Credit,In-Person
+1493,114.41,2024-03-03 04:00:00,Online,Phoenix,29,102,1,Credit,Online
+8,433.22,2024-01-01 07:00:00,Electronics,Houston,28,97,0,Debit,In-Person
+863,262.67,2024-02-05 22:00:00,Clothing,New York,67,61,1,Debit,In-Person
+668,81.18,2024-01-28 19:00:00,Gas,New York,43,101,0,Credit,In-Person
+1161,413.08,2024-02-18 08:00:00,Gas,Los Angeles,62,99,1,Credit,In-Person
+358,293.3,2024-01-15 21:00:00,Clothing,New York,62,14,0,Debit,In-Person
+784,173.5,2024-02-02 15:00:00,Clothing,Houston,31,119,1,Credit,Online
+736,438.72,2024-01-31 15:00:00,Clothing,New York,68,62,0,Credit,Online
+330,124.62,2024-01-14 17:00:00,Grocery,Chicago,29,69,0,Debit,Online
+1056,176.01,2024-02-13 23:00:00,Clothing,Chicago,33,5,1,Credit,In-Person
+1149,425.44,2024-02-17 20:00:00,Grocery,Los Angeles,33,96,1,Debit,In-Person
+1118,438.85,2024-02-16 13:00:00,Gas,New York,45,44,1,Credit,In-Person
+259,285.46,2024-01-11 18:00:00,Electronics,Los Angeles,36,14,0,Credit,Online
+1176,270.45,2024-02-18 23:00:00,Gas,Phoenix,34,46,1,Credit,In-Person
+373,48.13,2024-01-16 12:00:00,Electronics,Houston,31,115,0,Debit,In-Person
+1104,463.95,2024-02-15 23:00:00,Electronics,Phoenix,68,41,1,Credit,In-Person
+926,12.21,2024-02-08 13:00:00,Grocery,Chicago,40,44,1,Credit,Online
+143,249.13,2024-01-06 22:00:00,Clothing,Los Angeles,69,85,0,Debit,Online
+526,234.88,2024-01-22 21:00:00,Online,New York,52,19,0,Credit,In-Person
+1139,240.81,2024-02-17 10:00:00,Gas,Houston,31,66,1,Credit,In-Person
+1008,424.75,2024-02-11 23:00:00,Online,Houston,51,60,1,Debit,In-Person
+1122,477.87,2024-02-16 17:00:00,Grocery,Chicago,52,50,1,Debit,Online
+1424,75.02,2024-02-29 07:00:00,Electronics,New York,28,72,1,Debit,In-Person
+441,43.33,2024-01-19 08:00:00,Electronics,New York,33,119,0,Credit,Online
+532,499.86,2024-01-23 03:00:00,Clothing,Houston,28,23,0,Credit,In-Person
+1202,13.27,2024-02-20 01:00:00,Electronics,New York,62,60,1,Debit,In-Person
+227,486.53,2024-01-10 10:00:00,Gas,Houston,33,10,0,Debit,In-Person
+1037,170.6,2024-02-13 04:00:00,Online,Los Angeles,48,93,1,Debit,In-Person
+229,446.13,2024-01-10 12:00:00,Gas,Chicago,63,80,0,Credit,In-Person
+1280,249.95,2024-02-23 07:00:00,Clothing,Chicago,35,111,1,Credit,In-Person
+1450,341.94,2024-03-01 09:00:00,Electronics,Phoenix,18,11,1,Credit,Online
+213,326.33,2024-01-09 20:00:00,Online,Houston,52,117,0,Debit,In-Person
+80,58.82,2024-01-04 07:00:00,Clothing,Chicago,59,51,0,Debit,In-Person
+149,26.69,2024-01-07 04:00:00,Electronics,Chicago,44,74,0,Credit,Online
+815,435.08,2024-02-03 22:00:00,Electronics,Houston,40,62,1,Credit,In-Person
+904,291.94,2024-02-07 15:00:00,Electronics,Phoenix,30,47,1,Debit,Online
+959,83.98,2024-02-09 22:00:00,Clothing,Houston,62,100,1,Debit,Online
+672,448.49,2024-01-28 23:00:00,Clothing,New York,23,15,0,Debit,Online
+1156,376.61,2024-02-18 03:00:00,Electronics,Phoenix,33,24,1,Debit,In-Person
+556,202.34,2024-01-24 03:00:00,Clothing,Chicago,28,2,0,Credit,Online
+908,171.57,2024-02-07 19:00:00,Grocery,Chicago,45,19,1,Credit,In-Person
+134,169.47,2024-01-06 13:00:00,Gas,Chicago,62,81,0,Credit,In-Person
+1109,348.31,2024-02-16 04:00:00,Clothing,Chicago,67,119,1,Debit,In-Person
+824,199.69,2024-02-04 07:00:00,Grocery,Phoenix,60,44,1,Credit,Online
+409,452.79,2024-01-18 00:00:00,Gas,New York,63,112,0,Credit,In-Person
+369,98.7,2024-01-16 08:00:00,Gas,New York,21,17,0,Debit,In-Person
+508,411.45,2024-01-22 03:00:00,Clothing,Chicago,31,44,0,Debit,In-Person
+1182,171.59,2024-02-19 05:00:00,Electronics,Chicago,51,36,1,Credit,In-Person
+505,342.68,2024-01-22 00:00:00,Online,Phoenix,29,88,0,Debit,Online
+1489,194.89,2024-03-03 00:00:00,Gas,Chicago,27,41,1,Debit,Online
+348,23.61,2024-01-15 11:00:00,Electronics,Chicago,53,21,0,Debit,In-Person
+387,141.74,2024-01-17 02:00:00,Electronics,Chicago,32,19,0,Credit,Online
+1,187.9,2024-01-01 00:00:00,Online,New York,54,117,0,Credit,Online
+361,194.7,2024-01-16 00:00:00,Online,Houston,35,38,0,Debit,In-Person
+895,334.37,2024-02-07 06:00:00,Electronics,Phoenix,66,116,1,Debit,In-Person
+829,369.01,2024-02-04 12:00:00,Grocery,Chicago,68,69,1,Debit,Online
+1416,468.37,2024-02-28 23:00:00,Gas,Phoenix,64,90,1,Credit,In-Person
+476,496.49,2024-01-20 19:00:00,Gas,Los Angeles,60,26,0,Debit,Online
+1281,309.46,2024-02-23 08:00:00,Electronics,Houston,24,5,1,Credit,In-Person
+58,98.8,2024-01-03 09:00:00,Clothing,Phoenix,59,1,0,Debit,Online
+638,121.99,2024-01-27 13:00:00,Electronics,Los Angeles,45,9,0,Debit,Online
+1331,278.13,2024-02-25 10:00:00,Electronics,Phoenix,53,59,1,Debit,In-Person
+1054,399.59,2024-02-13 21:00:00,Gas,Los Angeles,21,35,1,Debit,Online
+1371,485.73,2024-02-27 02:00:00,Online,Chicago,56,111,1,Credit,Online
+173,256.53,2024-01-08 04:00:00,Electronics,Phoenix,69,79,0,Debit,In-Person
+451,388.8,2024-01-19 18:00:00,Online,New York,46,72,0,Debit,Online
+126,214.13,2024-01-06 05:00:00,Electronics,Los Angeles,29,101,0,Credit,Online
+1180,271.09,2024-02-19 03:00:00,Grocery,Chicago,43,6,1,Credit,In-Person
+531,406.64,2024-01-23 02:00:00,Clothing,Los Angeles,24,58,0,Credit,In-Person
+858,236.56,2024-02-05 17:00:00,Grocery,Los Angeles,64,58,1,Credit,In-Person
+714,206.51,2024-01-30 17:00:00,Clothing,New York,28,42,0,Credit,Online
+91,60.68,2024-01-04 18:00:00,Grocery,New York,61,81,0,Debit,In-Person
+1451,249.09,2024-03-01 10:00:00,Clothing,Phoenix,69,72,1,Debit,Online
+182,57.62,2024-01-08 13:00:00,Clothing,Chicago,23,26,0,Debit,Online
+876,78.92,2024-02-06 11:00:00,Online,New York,31,93,1,Credit,In-Person
+1031,19.47,2024-02-12 22:00:00,Electronics,Phoenix,23,32,1,Credit,In-Person
+787,292.11,2024-02-02 18:00:00,Gas,New York,32,55,1,Debit,Online
+415,316.29,2024-01-18 06:00:00,Grocery,Los Angeles,52,14,0,Debit,In-Person
+252,193.16,2024-01-11 11:00:00,Clothing,Houston,59,63,0,Credit,Online
+70,493.46,2024-01-03 21:00:00,Grocery,New York,28,100,0,Credit,In-Person
+804,303.75,2024-02-03 11:00:00,Clothing,Chicago,42,21,1,Debit,In-Person
+132,111.83,2024-01-06 11:00:00,Grocery,Chicago,27,9,0,Credit,In-Person
+301,26.79,2024-01-13 12:00:00,Clothing,Chicago,51,34,0,Debit,Online
+1430,434.09,2024-02-29 13:00:00,Electronics,Chicago,51,37,1,Credit,In-Person
+327,277.62,2024-01-14 14:00:00,Clothing,Los Angeles,19,48,0,Credit,Online
+1465,499.71,2024-03-02 00:00:00,Online,Phoenix,33,20,1,Credit,In-Person
+1114,268.95,2024-02-16 09:00:00,Clothing,Houston,19,45,1,Debit,In-Person
+500,493.12,2024-01-21 19:00:00,Grocery,Chicago,37,51,0,Debit,Online
+1378,257.89,2024-02-27 09:00:00,Gas,Houston,47,28,1,Credit,In-Person
+833,71.29,2024-02-04 16:00:00,Gas,Phoenix,26,42,1,Credit,Online
+365,470.79,2024-01-16 04:00:00,Electronics,New York,49,34,0,Credit,In-Person
+496,177.32,2024-01-21 15:00:00,Electronics,Los Angeles,60,101,0,Debit,In-Person
+1395,169.16,2024-02-28 02:00:00,Online,Phoenix,60,2,1,Debit,Online
+339,237.61,2024-01-15 02:00:00,Clothing,Phoenix,31,9,0,Credit,Online
+422,395.02,2024-01-18 13:00:00,Gas,Chicago,39,108,0,Credit,Online
+165,46.05,2024-01-07 20:00:00,Grocery,Houston,36,4,0,Debit,Online
+29,296.61,2024-01-02 04:00:00,Electronics,Los Angeles,59,55,0,Credit,In-Person
+517,188.86,2024-01-22 12:00:00,Gas,Houston,36,90,0,Debit,Online
+194,316.92,2024-01-09 01:00:00,Online,Chicago,40,97,0,Credit,Online
+1328,395.06,2024-02-25 07:00:00,Gas,Houston,19,42,1,Credit,Online
+1362,106.12,2024-02-26 17:00:00,Gas,Los Angeles,59,21,1,Credit,Online
+946,6.49,2024-02-09 09:00:00,Grocery,Los Angeles,68,118,1,Debit,Online
+1361,456.27,2024-02-26 16:00:00,Electronics,Phoenix,67,97,1,Debit,In-Person
+170,295.86,2024-01-08 01:00:00,Clothing,Phoenix,46,108,0,Credit,In-Person
+168,94.07,2024-01-07 23:00:00,Clothing,Houston,30,47,0,Debit,Online
+653,293.83,2024-01-28 04:00:00,Clothing,Chicago,58,106,0,Credit,In-Person
+174,114.02,2024-01-08 05:00:00,Clothing,Houston,69,27,0,Debit,Online
+519,493.65,2024-01-22 14:00:00,Online,New York,63,33,0,Credit,In-Person
+1214,397.61,2024-02-20 13:00:00,Clothing,New York,44,109,1,Debit,Online
+1401,84.35,2024-02-28 08:00:00,Clothing,Phoenix,64,10,1,Debit,Online
+913,312.45,2024-02-08 00:00:00,Gas,Houston,25,42,1,Debit,In-Person
+492,310.45,2024-01-21 11:00:00,Online,Phoenix,65,2,0,Debit,Online
+954,457.29,2024-02-09 17:00:00,Online,Los Angeles,37,27,1,Debit,In-Person
+74,407.92,2024-01-04 01:00:00,Electronics,Houston,39,97,0,Credit,In-Person
+1253,59.54,2024-02-22 04:00:00,Grocery,Chicago,23,25,1,Debit,In-Person
+588,65.31,2024-01-25 11:00:00,Electronics,Chicago,68,110,0,Credit,Online
+751,59.33,2024-02-01 06:00:00,Electronics,Phoenix,46,119,1,Debit,Online
+658,182.18,2024-01-28 09:00:00,Grocery,Los Angeles,28,75,0,Debit,Online
+843,89.84,2024-02-05 02:00:00,Electronics,Los Angeles,20,51,1,Credit,In-Person
+235,98.43,2024-01-10 18:00:00,Online,New York,28,92,0,Credit,Online
+733,332.93,2024-01-31 12:00:00,Online,Phoenix,45,39,0,Credit,Online
+215,356.38,2024-01-09 22:00:00,Grocery,Houston,48,7,0,Debit,Online
+163,317.13,2024-01-07 18:00:00,Electronics,New York,47,29,0,Credit,Online
+133,60.81,2024-01-06 12:00:00,Grocery,Houston,24,68,0,Debit,In-Person
+1312,447.51,2024-02-24 15:00:00,Grocery,New York,47,69,1,Debit,Online
+223,47.74,2024-01-10 06:00:00,Grocery,Los Angeles,19,62,0,Credit,Online
+1228,137.83,2024-02-21 03:00:00,Online,New York,34,11,1,Credit,Online
+935,86.67,2024-02-08 22:00:00,Electronics,Chicago,40,115,1,Credit,Online
+186,330.33,2024-01-08 17:00:00,Clothing,Phoenix,37,46,0,Debit,In-Person
+42,248.09,2024-01-02 17:00:00,Online,Houston,36,87,0,Credit,Online
+693,254.3,2024-01-29 20:00:00,Online,Houston,38,36,0,Credit,In-Person
+109,115.17,2024-01-05 12:00:00,Grocery,Phoenix,63,97,0,Credit,In-Person
+39,342.43,2024-01-02 14:00:00,Gas,Phoenix,26,35,0,Credit,In-Person
+569,452.18,2024-01-24 16:00:00,Grocery,Chicago,36,90,0,Credit,Online
+995,181.13,2024-02-11 10:00:00,Grocery,Houston,69,30,1,Credit,Online
+1343,434.27,2024-02-25 22:00:00,Clothing,Phoenix,50,19,1,Credit,Online
+1442,47.86,2024-03-01 01:00:00,Electronics,New York,63,27,1,Credit,Online
+484,314.15,2024-01-21 03:00:00,Grocery,Chicago,39,87,0,Debit,In-Person
+469,112.57,2024-01-20 12:00:00,Gas,Houston,56,27,0,Debit,In-Person
+891,361.41,2024-02-07 02:00:00,Gas,Houston,50,80,1,Credit,Online
+948,450.11,2024-02-09 11:00:00,Grocery,New York,57,42,1,Debit,Online
+25,228.58,2024-01-02 00:00:00,Gas,Phoenix,39,57,0,Debit,In-Person
+1010,245.22,2024-02-12 01:00:00,Grocery,Phoenix,36,86,1,Debit,In-Person
+1193,173.6,2024-02-19 16:00:00,Electronics,New York,47,92,1,Credit,In-Person
+69,38.2,2024-01-03 20:00:00,Online,Houston,52,30,0,Credit,In-Person
+885,400.16,2024-02-06 20:00:00,Online,Phoenix,40,1,1,Debit,Online
+1355,243.85,2024-02-26 10:00:00,Grocery,Los Angeles,58,11,1,Debit,Online
+367,480.63,2024-01-16 06:00:00,Gas,Phoenix,33,10,0,Debit,In-Person
+506,82.15,2024-01-22 01:00:00,Online,Houston,32,72,0,Credit,Online
+851,34.47,2024-02-05 10:00:00,Grocery,Phoenix,47,85,1,Credit,In-Person
+1316,322.15,2024-02-24 19:00:00,Electronics,Los Angeles,42,103,1,Credit,In-Person
+384,438.86,2024-01-16 23:00:00,Gas,Houston,24,4,0,Credit,In-Person
+735,180.06,2024-01-31 14:00:00,Gas,Los Angeles,45,49,0,Credit,Online
+718,482.55,2024-01-30 21:00:00,Electronics,Chicago,66,69,0,Credit,In-Person
+1336,325.51,2024-02-25 15:00:00,Gas,Los Angeles,46,98,1,Credit,In-Person
+455,56.49,2024-01-19 22:00:00,Clothing,New York,46,57,0,Debit,In-Person
+265,438.81,2024-01-12 00:00:00,Gas,Houston,28,44,0,Credit,Online
+76,364.77,2024-01-04 03:00:00,Grocery,New York,24,115,0,Debit,In-Person
+915,276.47,2024-02-08 02:00:00,Gas,Phoenix,39,99,1,Credit,In-Person
+233,288.88,2024-01-10 16:00:00,Online,Phoenix,41,29,0,Debit,Online
+445,406.59,2024-01-19 12:00:00,Electronics,Phoenix,20,51,0,Credit,In-Person
+396,465.45,2024-01-17 11:00:00,Clothing,Phoenix,44,11,0,Debit,In-Person
+612,399.91,2024-01-26 11:00:00,Clothing,Houston,18,112,0,Debit,In-Person
+177,345.78,2024-01-08 08:00:00,Clothing,Chicago,26,101,0,Debit,Online
+19,216.54,2024-01-01 18:00:00,Electronics,Houston,39,79,0,Debit,In-Person
+1311,40.98,2024-02-24 14:00:00,Clothing,Houston,51,59,1,Debit,In-Person
+1222,76.38,2024-02-20 21:00:00,Electronics,New York,59,80,1,Debit,Online
+342,237.26,2024-01-15 05:00:00,Gas,New York,41,93,0,Credit,Online
+1348,186.15,2024-02-26 03:00:00,Clothing,Chicago,35,51,1,Credit,Online
+880,111.76,2024-02-06 15:00:00,Gas,Los Angeles,58,108,1,Debit,Online
+596,237.51,2024-01-25 19:00:00,Electronics,New York,59,99,0,Debit,Online
+62,136.4,2024-01-03 13:00:00,Electronics,Houston,42,96,0,Credit,In-Person
+1261,135.23,2024-02-22 12:00:00,Clothing,Chicago,64,23,1,Credit,Online
+273,433.67,2024-01-12 08:00:00,Online,Chicago,19,21,0,Credit,In-Person
+1209,137.54,2024-02-20 08:00:00,Clothing,Phoenix,62,39,1,Credit,In-Person
+873,322.36,2024-02-06 08:00:00,Gas,Chicago,56,78,1,Debit,Online
+1121,444.49,2024-02-16 16:00:00,Clothing,Houston,20,70,1,Credit,In-Person
+1407,422.24,2024-02-28 14:00:00,Grocery,Los Angeles,37,49,1,Credit,Online
+279,351.28,2024-01-12 14:00:00,Grocery,Los Angeles,55,106,0,Debit,Online
+37,153.0,2024-01-02 12:00:00,Electronics,Houston,66,29,0,Credit,Online
+663,303.28,2024-01-28 14:00:00,Electronics,Houston,53,33,0,Credit,Online
+1352,289.76,2024-02-26 07:00:00,Electronics,Chicago,50,64,1,Credit,Online
+1090,116.6,2024-02-15 09:00:00,Grocery,New York,27,42,1,Credit,Online
+978,26.66,2024-02-10 17:00:00,Grocery,Phoenix,58,76,1,Credit,Online
+739,220.13,2024-01-31 18:00:00,Online,Los Angeles,62,22,0,Debit,In-Person
+192,448.71,2024-01-08 23:00:00,Online,Houston,22,3,0,Debit,Online
+920,70.92,2024-02-08 07:00:00,Clothing,Phoenix,42,109,1,Debit,Online
+457,6.67,2024-01-20 00:00:00,Gas,Los Angeles,68,88,0,Debit,In-Person
+676,491.21,2024-01-29 03:00:00,Grocery,New York,41,93,0,Debit,In-Person
+761,76.69,2024-02-01 16:00:00,Electronics,New York,29,55,1,Credit,In-Person
+1353,219.87,2024-02-26 08:00:00,Electronics,Chicago,45,29,1,Credit,In-Person
+729,101.61,2024-01-31 08:00:00,Grocery,Phoenix,33,35,0,Debit,In-Person
+413,475.35,2024-01-18 04:00:00,Grocery,Chicago,30,106,0,Debit,Online
+826,460.01,2024-02-04 09:00:00,Gas,Los Angeles,45,68,1,Credit,Online
+617,31.48,2024-01-26 16:00:00,Clothing,Houston,21,103,0,Credit,In-Person
+115,317.07,2024-01-05 18:00:00,Gas,Phoenix,34,43,0,Debit,In-Person
+418,165.0,2024-01-18 09:00:00,Online,New York,46,114,0,Credit,Online
+1429,319.92,2024-02-29 12:00:00,Online,Houston,59,16,1,Credit,Online
+970,238.55,2024-02-10 09:00:00,Clothing,Los Angeles,54,36,1,Credit,In-Person
+605,61.2,2024-01-26 04:00:00,Clothing,Los Angeles,24,108,0,Debit,In-Person
+1435,70.69,2024-02-29 18:00:00,Grocery,New York,35,13,1,Credit,In-Person
+90,236.64,2024-01-04 17:00:00,Online,New York,23,28,0,Debit,Online
+849,251.6,2024-02-05 08:00:00,Clothing,Houston,65,103,1,Debit,In-Person
+1146,439.44,2024-02-17 17:00:00,Clothing,Phoenix,36,6,1,Credit,In-Person
+1434,333.77,2024-02-29 17:00:00,Electronics,New York,65,95,1,Credit,Online
+754,168.12,2024-02-01 09:00:00,Online,Phoenix,36,31,1,Debit,In-Person
+499,487.22,2024-01-21 18:00:00,Online,New York,26,35,0,Credit,Online
+12,484.99,2024-01-01 11:00:00,Clothing,New York,21,77,0,Credit,Online
+397,429.35,2024-01-17 12:00:00,Gas,Chicago,69,63,0,Debit,In-Person
+285,289.56,2024-01-12 20:00:00,Clothing,Phoenix,57,81,0,Debit,Online
+691,162.52,2024-01-29 18:00:00,Grocery,Los Angeles,56,76,0,Debit,Online
+1231,447.16,2024-02-21 06:00:00,Electronics,Chicago,22,56,1,Credit,Online
+1404,368.46,2024-02-28 11:00:00,Grocery,Phoenix,68,36,1,Debit,In-Person
+690,94.33,2024-01-29 17:00:00,Grocery,Phoenix,44,87,0,Credit,In-Person
+852,375.23,2024-02-05 11:00:00,Gas,Phoenix,62,30,1,Debit,Online
+160,364.38,2024-01-07 15:00:00,Online,Houston,35,73,0,Credit,In-Person
+896,103.29,2024-02-07 07:00:00,Grocery,Phoenix,54,20,1,Credit,Online
+1190,354.38,2024-02-19 13:00:00,Electronics,Phoenix,65,52,1,Credit,Online
+258,348.32,2024-01-11 17:00:00,Clothing,Houston,61,2,0,Debit,Online
+336,21.32,2024-01-14 23:00:00,Online,New York,38,23,0,Credit,Online
+1408,403.03,2024-02-28 15:00:00,Gas,Phoenix,41,111,1,Debit,In-Person
+1040,158.33,2024-02-13 07:00:00,Electronics,Phoenix,47,72,1,Debit,Online
+516,14.16,2024-01-22 11:00:00,Gas,Chicago,60,58,0,Credit,Online
+1016,462.7,2024-02-12 07:00:00,Electronics,Houston,26,65,1,Credit,Online
+769,171.7,2024-02-02 00:00:00,Electronics,Phoenix,25,15,1,Debit,Online
+1317,263.67,2024-02-24 20:00:00,Electronics,Los Angeles,22,45,1,Debit,Online
+762,156.55,2024-02-01 17:00:00,Gas,Phoenix,64,88,1,Debit,In-Person
+1103,442.01,2024-02-15 22:00:00,Gas,Los Angeles,43,62,1,Credit,Online
+522,191.06,2024-01-22 17:00:00,Clothing,New York,66,40,0,Credit,In-Person
+23,146.78,2024-01-01 22:00:00,Grocery,Houston,18,64,0,Credit,In-Person
+357,14.23,2024-01-15 20:00:00,Online,Phoenix,50,119,0,Credit,Online
+1272,430.2,2024-02-22 23:00:00,Gas,New York,30,93,1,Credit,Online
+341,246.32,2024-01-15 04:00:00,Online,New York,35,3,0,Credit,In-Person
+432,380.99,2024-01-18 23:00:00,Grocery,Chicago,40,26,0,Debit,In-Person
+474,445.68,2024-01-20 17:00:00,Electronics,New York,44,32,0,Credit,Online
+218,373.5,2024-01-10 01:00:00,Electronics,Los Angeles,49,100,0,Debit,Online
+912,134.76,2024-02-07 23:00:00,Electronics,Houston,63,3,1,Debit,Online
+1205,244.83,2024-02-20 04:00:00,Grocery,New York,25,88,1,Credit,In-Person
+1012,493.85,2024-02-12 03:00:00,Electronics,Los Angeles,36,83,1,Credit,In-Person
+1459,108.62,2024-03-01 18:00:00,Grocery,Los Angeles,44,72,1,Credit,In-Person
+94,281.08,2024-01-04 21:00:00,Grocery,New York,64,59,0,Credit,In-Person
+1009,125.58,2024-02-12 00:00:00,Gas,Los Angeles,46,35,1,Debit,In-Person
+1071,148.86,2024-02-14 14:00:00,Online,Houston,62,31,1,Debit,Online
+697,145.03,2024-01-30 00:00:00,Electronics,Chicago,60,61,0,Debit,In-Person
+997,458.74,2024-02-11 12:00:00,Electronics,New York,62,75,1,Debit,Online
+154,245.24,2024-01-07 09:00:00,Online,Chicago,23,112,0,Credit,In-Person
+1300,353.53,2024-02-24 03:00:00,Online,Los Angeles,54,16,1,Credit,In-Person
+1498,232.28,2024-03-03 09:00:00,Electronics,Los Angeles,37,14,1,Credit,Online
+790,473.69,2024-02-02 21:00:00,Grocery,Los Angeles,51,68,1,Debit,In-Person
+581,230.11,2024-01-25 04:00:00,Electronics,Chicago,47,5,0,Debit,Online
+704,68.07,2024-01-30 07:00:00,Gas,Houston,20,98,0,Debit,Online
+1259,33.04,2024-02-22 10:00:00,Clothing,Los Angeles,32,11,1,Credit,In-Person
+488,141.2,2024-01-21 07:00:00,Grocery,Chicago,69,71,0,Debit,In-Person
+560,310.53,2024-01-24 07:00:00,Grocery,Los Angeles,62,82,0,Debit,Online
+802,77.12,2024-02-03 09:00:00,Electronics,Chicago,25,16,1,Debit,Online
+513,466.43,2024-01-22 08:00:00,Grocery,Chicago,28,49,0,Debit,Online
+634,266.52,2024-01-27 09:00:00,Grocery,Phoenix,44,101,0,Credit,In-Person
+1111,408.1,2024-02-16 06:00:00,Gas,Los Angeles,61,70,1,Debit,In-Person
+1472,369.49,2024-03-02 07:00:00,Electronics,New York,40,112,1,Debit,In-Person
+791,77.52,2024-02-02 22:00:00,Gas,Los Angeles,58,95,1,Debit,In-Person
+117,402.03,2024-01-05 20:00:00,Electronics,Phoenix,38,38,0,Credit,In-Person
+741,231.88,2024-01-31 20:00:00,Gas,Chicago,49,49,0,Debit,Online
+1082,45.62,2024-02-15 01:00:00,Electronics,Chicago,52,7,1,Debit,Online
+831,113.08,2024-02-04 14:00:00,Online,Chicago,49,10,1,Debit,In-Person
+120,270.13,2024-01-05 23:00:00,Gas,Chicago,43,88,0,Credit,Online
+657,142.6,2024-01-28 08:00:00,Clothing,Phoenix,39,78,0,Debit,Online
+636,224.26,2024-01-27 11:00:00,Clothing,Phoenix,31,97,0,Credit,In-Person
+370,35.61,2024-01-16 09:00:00,Grocery,Chicago,38,67,0,Credit,In-Person
+269,180.39,2024-01-12 04:00:00,Gas,Los Angeles,20,88,0,Debit,In-Person
+656,64.66,2024-01-28 07:00:00,Online,Phoenix,47,58,0,Debit,Online
+936,136.88,2024-02-08 23:00:00,Gas,Los Angeles,32,117,1,Debit,In-Person
+823,167.42,2024-02-04 06:00:00,Online,Los Angeles,30,7,1,Debit,Online
+867,78.46,2024-02-06 02:00:00,Clothing,Houston,30,63,1,Credit,In-Person
+47,156.54,2024-01-02 22:00:00,Online,New York,40,41,0,Debit,In-Person
+1291,199.06,2024-02-23 18:00:00,Electronics,New York,54,64,1,Debit,In-Person
+992,347.65,2024-02-11 07:00:00,Gas,New York,36,12,1,Credit,In-Person
+877,358.27,2024-02-06 12:00:00,Clothing,Phoenix,62,43,1,Credit,In-Person
+774,199.25,2024-02-02 05:00:00,Gas,Phoenix,38,94,1,Debit,In-Person
+1500,431.8,2024-03-03 11:00:00,Online,New York,64,97,1,Credit,In-Person
+5,78.85,2024-01-01 04:00:00,Online,New York,65,18,0,Credit,In-Person
+1004,366.38,2024-02-11 19:00:00,Online,Chicago,60,9,1,Credit,In-Person
+1302,468.17,2024-02-24 05:00:00,Gas,Los Angeles,67,102,1,Credit,In-Person
+264,259.65,2024-01-11 23:00:00,Electronics,Chicago,60,90,0,Credit,Online
+1334,498.17,2024-02-25 13:00:00,Electronics,Houston,39,87,1,Debit,In-Person
+1443,336.63,2024-03-01 02:00:00,Clothing,Chicago,39,38,1,Credit,Online
+444,185.95,2024-01-19 11:00:00,Grocery,Chicago,63,17,0,Credit,In-Person
+1003,436.6,2024-02-11 18:00:00,Grocery,Chicago,66,32,1,Credit,In-Person
+1078,340.14,2024-02-14 21:00:00,Clothing,Los Angeles,63,79,1,Credit,Online
+838,181.83,2024-02-04 21:00:00,Gas,Phoenix,50,10,1,Credit,In-Person
+1340,16.3,2024-02-25 19:00:00,Online,Phoenix,35,26,1,Debit,In-Person
+305,363.32,2024-01-13 16:00:00,Clothing,Houston,19,77,0,Debit,Online
+1175,317.37,2024-02-18 22:00:00,Electronics,New York,42,68,1,Credit,Online
+314,481.36,2024-01-14 01:00:00,Online,New York,51,117,0,Debit,In-Person
+150,140.04,2024-01-07 05:00:00,Online,Phoenix,69,109,0,Debit,Online
+575,431.32,2024-01-24 22:00:00,Clothing,Los Angeles,47,60,0,Debit,In-Person
+51,484.82,2024-01-03 02:00:00,Online,Chicago,51,58,0,Debit,Online
+1415,266.05,2024-02-28 22:00:00,Electronics,Chicago,41,110,1,Debit,In-Person
+727,70.75,2024-01-31 06:00:00,Grocery,New York,42,91,0,Credit,Online
+834,89.02,2024-02-04 17:00:00,Grocery,Chicago,57,41,1,Credit,Online
+1116,290.46,2024-02-16 11:00:00,Gas,Chicago,30,51,1,Debit,In-Person
+471,7.07,2024-01-20 14:00:00,Electronics,Chicago,68,110,0,Credit,In-Person
+972,468.48,2024-02-10 11:00:00,Online,New York,34,45,1,Debit,In-Person
+654,372.97,2024-01-28 05:00:00,Electronics,Los Angeles,21,109,0,Debit,Online
+400,377.52,2024-01-17 15:00:00,Electronics,Chicago,31,73,0,Debit,Online
+512,209.7,2024-01-22 07:00:00,Electronics,Phoenix,44,52,0,Debit,Online
+321,275.06,2024-01-14 08:00:00,Electronics,Phoenix,53,6,0,Credit,Online
+20,146.32,2024-01-01 19:00:00,Gas,New York,23,36,0,Credit,Online
+685,464.76,2024-01-29 12:00:00,Electronics,Phoenix,50,18,0,Credit,Online
+36,404.39,2024-01-02 11:00:00,Gas,New York,35,78,0,Debit,In-Person
+903,91.54,2024-02-07 14:00:00,Electronics,Chicago,55,18,1,Credit,In-Person
+828,174.13,2024-02-04 11:00:00,Online,New York,45,66,1,Credit,Online
+1345,371.61,2024-02-26 00:00:00,Online,Chicago,41,64,1,Credit,Online
+408,6.41,2024-01-17 23:00:00,Online,Chicago,36,84,0,Debit,In-Person
+921,434.37,2024-02-08 08:00:00,Online,Chicago,58,102,1,Credit,Online
+538,124.43,2024-01-23 09:00:00,Electronics,Los Angeles,55,34,0,Credit,Online
+759,447.05,2024-02-01 14:00:00,Online,Houston,52,43,1,Debit,In-Person
+1063,384.37,2024-02-14 06:00:00,Online,Chicago,32,64,1,Credit,In-Person
+246,464.23,2024-01-11 05:00:00,Grocery,Chicago,28,78,0,Credit,In-Person
+1128,204.82,2024-02-16 23:00:00,Grocery,Phoenix,39,86,1,Debit,In-Person
+785,91.62,2024-02-02 16:00:00,Clothing,Houston,30,49,1,Credit,In-Person
+490,445.24,2024-01-21 09:00:00,Gas,Chicago,59,33,0,Credit,Online
+155,492.84,2024-01-07 10:00:00,Grocery,Phoenix,53,84,0,Credit,Online
+962,301.97,2024-02-10 01:00:00,Gas,Los Angeles,43,69,1,Credit,In-Person
+854,449.13,2024-02-05 13:00:00,Online,Chicago,22,49,1,Debit,Online
+626,185.09,2024-01-27 01:00:00,Electronics,Chicago,52,80,0,Credit,Online
+686,278.82,2024-01-29 13:00:00,Online,Phoenix,27,80,0,Debit,In-Person
+570,174.78,2024-01-24 17:00:00,Clothing,Los Angeles,50,88,0,Credit,In-Person
+1427,3.47,2024-02-29 10:00:00,Gas,Phoenix,68,16,1,Debit,Online
+18,262.85,2024-01-01 17:00:00,Electronics,Houston,49,97,0,Credit,Online
+128,430.5,2024-01-06 07:00:00,Electronics,Houston,47,2,0,Debit,Online
+928,271.28,2024-02-08 15:00:00,Gas,Chicago,60,98,1,Debit,Online
+981,167.79,2024-02-10 20:00:00,Online,Los Angeles,55,29,1,Credit,In-Person
+1470,391.41,2024-03-02 05:00:00,Clothing,Chicago,60,114,1,Credit,Online
+191,47.46,2024-01-08 22:00:00,Grocery,Los Angeles,35,53,0,Credit,Online
+1140,296.61,2024-02-17 11:00:00,Gas,Phoenix,66,4,1,Debit,Online
+993,136.8,2024-02-11 08:00:00,Electronics,Houston,35,82,1,Credit,Online
+1464,329.26,2024-03-01 23:00:00,Clothing,Houston,43,64,1,Credit,In-Person
+1252,241.28,2024-02-22 03:00:00,Clothing,Los Angeles,32,80,1,Debit,Online
+607,103.96,2024-01-26 06:00:00,Electronics,Los Angeles,67,61,0,Credit,In-Person
+181,171.19,2024-01-08 12:00:00,Electronics,Los Angeles,55,52,0,Debit,In-Person
+302,266.15,2024-01-13 13:00:00,Electronics,Chicago,49,44,0,Credit,In-Person
+497,292.24,2024-01-21 16:00:00,Gas,New York,30,98,0,Debit,Online
+1315,226.71,2024-02-24 18:00:00,Electronics,Los Angeles,56,53,1,Debit,Online
+1256,215.72,2024-02-22 07:00:00,Online,New York,67,39,1,Debit,In-Person
+1238,237.13,2024-02-21 13:00:00,Gas,Phoenix,69,31,1,Debit,In-Person
+518,405.47,2024-01-22 13:00:00,Electronics,Los Angeles,23,36,0,Debit,In-Person
+1070,144.33,2024-02-14 13:00:00,Electronics,Los Angeles,59,22,1,Debit,In-Person
+477,37.82,2024-01-20 20:00:00,Gas,Houston,30,25,0,Credit,In-Person
+158,381.05,2024-01-07 13:00:00,Clothing,Phoenix,49,82,0,Debit,In-Person
+1196,435.9,2024-02-19 19:00:00,Electronics,Phoenix,37,22,1,Credit,In-Person
+17,152.82,2024-01-01 16:00:00,Gas,New York,22,26,0,Credit,In-Person
+1073,22.0,2024-02-14 16:00:00,Gas,Houston,48,48,1,Debit,In-Person
+547,57.67,2024-01-23 18:00:00,Clothing,Houston,30,54,0,Debit,In-Person
+659,323.31,2024-01-28 10:00:00,Electronics,Houston,19,42,0,Debit,Online
+1227,199.4,2024-02-21 02:00:00,Grocery,Houston,58,90,1,Credit,Online
+1020,17.94,2024-02-12 11:00:00,Electronics,Chicago,50,1,1,Credit,In-Person
+1319,41.73,2024-02-24 22:00:00,Grocery,Houston,37,24,1,Credit,Online
+960,369.28,2024-02-09 23:00:00,Grocery,Chicago,48,19,1,Credit,Online
+1410,434.27,2024-02-28 17:00:00,Clothing,New York,55,112,1,Credit,In-Person
+284,47.9,2024-01-12 19:00:00,Grocery,New York,59,23,0,Credit,Online
+798,283.0,2024-02-03 05:00:00,Electronics,Phoenix,27,84,1,Debit,In-Person
+226,122.75,2024-01-10 09:00:00,Online,Houston,49,25,0,Debit,Online
+27,100.64,2024-01-02 02:00:00,Clothing,Chicago,28,61,0,Debit,In-Person
+438,411.11,2024-01-19 05:00:00,Online,Chicago,28,86,0,Debit,In-Person
+1458,338.58,2024-03-01 17:00:00,Clothing,Phoenix,18,21,1,Credit,Online
+230,315.94,2024-01-10 13:00:00,Online,Chicago,56,16,0,Credit,Online
+38,49.74,2024-01-02 13:00:00,Clothing,Chicago,58,26,0,Debit,In-Person
+750,312.49,2024-02-01 05:00:00,Clothing,Chicago,24,104,0,Debit,In-Person
+1046,308.32,2024-02-13 13:00:00,Online,New York,48,18,1,Debit,Online
+470,481.65,2024-01-20 13:00:00,Clothing,Chicago,21,74,0,Credit,Online
+1279,72.11,2024-02-23 06:00:00,Grocery,Chicago,51,114,1,Debit,In-Person
+1473,439.38,2024-03-02 08:00:00,Electronics,Phoenix,24,9,1,Debit,In-Person
+688,140.71,2024-01-29 15:00:00,Online,Phoenix,29,36,0,Credit,Online
+1379,180.26,2024-02-27 10:00:00,Online,Houston,51,103,1,Debit,In-Person
+640,189.26,2024-01-27 15:00:00,Gas,Phoenix,33,69,0,Debit,In-Person
+1417,20.63,2024-02-29 00:00:00,Grocery,New York,24,61,1,Credit,In-Person
+1219,327.6,2024-02-20 18:00:00,Gas,Los Angeles,40,57,1,Credit,Online
+1159,436.05,2024-02-18 06:00:00,Gas,New York,59,24,1,Debit,In-Person
+1251,398.47,2024-02-22 02:00:00,Online,Chicago,32,50,1,Credit,Online
+1440,337.04,2024-02-29 23:00:00,Grocery,Houston,42,66,1,Credit,In-Person
+801,353.91,2024-02-03 08:00:00,Clothing,Chicago,63,28,1,Credit,Online
+161,184.52,2024-01-07 16:00:00,Clothing,New York,22,14,0,Credit,In-Person
+957,259.94,2024-02-09 20:00:00,Electronics,Chicago,44,63,1,Debit,Online
+1187,344.25,2024-02-19 10:00:00,Electronics,New York,31,105,1,Credit,Online
+822,3.31,2024-02-04 05:00:00,Clothing,Los Angeles,35,44,1,Debit,Online
+1271,347.8,2024-02-22 22:00:00,Electronics,Los Angeles,66,113,1,Credit,In-Person
+878,329.8,2024-02-06 13:00:00,Electronics,Houston,61,49,1,Debit,Online
+914,205.3,2024-02-08 01:00:00,Grocery,Chicago,61,21,1,Debit,In-Person
+153,73.3,2024-01-07 08:00:00,Clothing,Chicago,42,42,0,Debit,Online
+1374,246.65,2024-02-27 05:00:00,Clothing,Houston,32,63,1,Credit,Online
+510,363.13,2024-01-22 05:00:00,Grocery,New York,43,10,0,Debit,In-Person
+1136,38.99,2024-02-17 07:00:00,Clothing,New York,42,17,1,Debit,Online
+1322,80.61,2024-02-25 01:00:00,Gas,New York,58,94,1,Credit,Online
+104,254.78,2024-01-05 07:00:00,Gas,Chicago,44,87,0,Credit,Online
+587,38.86,2024-01-25 10:00:00,Gas,New York,42,53,0,Credit,In-Person
+1329,329.7,2024-02-25 08:00:00,Gas,New York,26,47,1,Debit,In-Person
+1144,283.3,2024-02-17 15:00:00,Online,Phoenix,24,17,1,Credit,Online
+54,447.52,2024-01-03 05:00:00,Online,Phoenix,64,82,0,Credit,In-Person
+152,120.54,2024-01-07 07:00:00,Online,New York,37,18,0,Debit,Online
+404,413.4,2024-01-17 19:00:00,Grocery,Houston,48,53,0,Debit,In-Person
+1455,16.16,2024-03-01 14:00:00,Gas,New York,54,71,1,Debit,Online
+208,332.09,2024-01-09 15:00:00,Gas,Chicago,21,26,0,Debit,In-Person
+1418,61.93,2024-02-29 01:00:00,Clothing,Phoenix,36,85,1,Debit,Online
+1123,431.2,2024-02-16 18:00:00,Online,New York,35,101,1,Debit,Online
+9,300.96,2024-01-01 08:00:00,Online,Houston,60,23,0,Credit,Online
+1015,353.08,2024-02-12 06:00:00,Grocery,Los Angeles,68,20,1,Credit,Online
+1344,363.86,2024-02-25 23:00:00,Online,New York,18,9,1,Credit,In-Person
+1061,436.96,2024-02-14 04:00:00,Gas,Phoenix,22,39,1,Credit,In-Person
+453,212.69,2024-01-19 20:00:00,Electronics,Phoenix,23,70,0,Credit,In-Person
+254,159.14,2024-01-11 13:00:00,Clothing,Phoenix,19,52,0,Credit,Online
+897,147.28,2024-02-07 08:00:00,Gas,Phoenix,43,102,1,Debit,In-Person
+1309,170.39,2024-02-24 12:00:00,Gas,New York,38,41,1,Debit,In-Person
+881,116.31,2024-02-06 16:00:00,Gas,Phoenix,18,10,1,Debit,In-Person
+1428,475.95,2024-02-29 11:00:00,Grocery,Los Angeles,58,1,1,Debit,In-Person
+624,242.78,2024-01-26 23:00:00,Grocery,Houston,67,68,0,Credit,In-Person
+346,308.31,2024-01-15 09:00:00,Electronics,New York,39,21,0,Credit,In-Person
+1287,44.85,2024-02-23 14:00:00,Gas,Los Angeles,25,37,1,Debit,In-Person
+263,70.9,2024-01-11 22:00:00,Clothing,New York,67,12,0,Debit,Online
+151,454.22,2024-01-07 06:00:00,Gas,Los Angeles,46,17,0,Debit,In-Person
+473,22.54,2024-01-20 16:00:00,Electronics,Los Angeles,55,42,0,Credit,In-Person
+641,11.02,2024-01-27 16:00:00,Clothing,Los Angeles,52,54,0,Credit,In-Person
+1485,162.97,2024-03-02 20:00:00,Clothing,Phoenix,24,37,1,Credit,In-Person
+1411,103.71,2024-02-28 18:00:00,Clothing,Phoenix,25,49,1,Debit,Online
+551,260.56,2024-01-23 22:00:00,Gas,Chicago,28,3,0,Credit,In-Person
+929,317.11,2024-02-08 16:00:00,Gas,Chicago,40,85,1,Debit,In-Person
+489,475.26,2024-01-21 08:00:00,Clothing,Houston,25,104,0,Debit,Online
+1357,450.45,2024-02-26 12:00:00,Electronics,Houston,23,102,1,Credit,In-Person
+1172,490.61,2024-02-18 19:00:00,Electronics,New York,40,89,1,Debit,In-Person
+147,305.17,2024-01-07 02:00:00,Gas,Chicago,38,29,0,Debit,Online
+403,253.12,2024-01-17 18:00:00,Clothing,New York,50,11,0,Debit,Online
+955,209.97,2024-02-09 18:00:00,Clothing,Los Angeles,44,47,1,Debit,Online
+1406,237.84,2024-02-28 13:00:00,Gas,New York,23,85,1,Debit,Online
+660,285.82,2024-01-28 11:00:00,Online,New York,61,38,0,Debit,Online
+464,292.1,2024-01-20 07:00:00,Electronics,Houston,29,116,0,Debit,In-Person
+187,408.79,2024-01-08 18:00:00,Clothing,Chicago,26,92,0,Debit,In-Person
+1148,329.57,2024-02-17 19:00:00,Clothing,Chicago,42,69,1,Debit,In-Person
+1225,210.44,2024-02-21 00:00:00,Clothing,New York,53,3,1,Debit,In-Person
+609,252.21,2024-01-26 08:00:00,Electronics,Chicago,44,23,0,Debit,Online
+144,151.14,2024-01-06 23:00:00,Gas,Los Angeles,36,21,0,Debit,In-Person
+752,469.98,2024-02-01 07:00:00,Electronics,Chicago,64,95,1,Debit,Online
+982,385.69,2024-02-10 21:00:00,Gas,Chicago,23,73,1,Debit,Online
+198,448.66,2024-01-09 05:00:00,Gas,New York,21,108,0,Credit,In-Person
+884,52.95,2024-02-06 19:00:00,Grocery,Los Angeles,39,57,1,Credit,In-Person
+280,398.1,2024-01-12 15:00:00,Gas,Houston,45,73,0,Debit,In-Person
+294,180.74,2024-01-13 05:00:00,Clothing,Houston,39,12,0,Debit,Online
+1365,366.82,2024-02-26 20:00:00,Grocery,Phoenix,30,102,1,Debit,Online
+401,52.46,2024-01-17 16:00:00,Electronics,Chicago,32,2,0,Debit,Online
+123,159.68,2024-01-06 02:00:00,Clothing,New York,45,97,0,Credit,Online
+1208,223.51,2024-02-20 07:00:00,Electronics,Houston,20,103,1,Debit,Online
+203,81.65,2024-01-09 10:00:00,Gas,Houston,59,63,0,Credit,Online
+836,210.04,2024-02-04 19:00:00,Electronics,New York,37,103,1,Debit,Online
+247,214.66,2024-01-11 06:00:00,Electronics,Houston,45,71,0,Credit,In-Person
+1423,21.74,2024-02-29 06:00:00,Online,New York,39,26,1,Credit,In-Person
+1409,293.09,2024-02-28 16:00:00,Online,New York,44,70,1,Credit,Online
+1154,340.39,2024-02-18 01:00:00,Gas,Chicago,35,83,1,Credit,Online
+385,367.8,2024-01-17 00:00:00,Gas,Chicago,63,82,0,Debit,In-Person
+1323,436.02,2024-02-25 02:00:00,Online,Los Angeles,54,58,1,Debit,Online
+855,103.36,2024-02-05 14:00:00,Grocery,New York,42,9,1,Debit,In-Person
+220,424.76,2024-01-10 03:00:00,Online,New York,69,24,0,Credit,In-Person
+642,161.72,2024-01-27 17:00:00,Online,Chicago,64,116,0,Debit,In-Person
+2,475.41,2024-01-01 01:00:00,Clothing,Houston,27,58,0,Credit,In-Person
+113,464.92,2024-01-05 16:00:00,Electronics,Los Angeles,60,101,0,Credit,Online
+699,78.03,2024-01-30 02:00:00,Online,Chicago,19,18,0,Credit,Online
+1432,258.28,2024-02-29 15:00:00,Gas,Los Angeles,48,52,1,Credit,In-Person
+952,332.85,2024-02-09 15:00:00,Grocery,Chicago,67,73,1,Debit,In-Person
+1318,366.06,2024-02-24 21:00:00,Clothing,Houston,22,20,1,Debit,Online
+1292,67.23,2024-02-23 19:00:00,Online,Houston,31,10,1,Credit,Online
+1354,362.9,2024-02-26 09:00:00,Grocery,Los Angeles,59,116,1,Debit,Online
+442,493.33,2024-01-19 09:00:00,Clothing,Phoenix,52,62,0,Credit,In-Person
+1137,425.75,2024-02-17 08:00:00,Gas,Phoenix,61,7,1,Debit,In-Person
+1257,101.06,2024-02-22 08:00:00,Clothing,Chicago,53,17,1,Debit,In-Person
+664,119.38,2024-01-28 15:00:00,Gas,Los Angeles,35,71,0,Credit,Online
+1373,427.34,2024-02-27 04:00:00,Clothing,New York,34,65,1,Debit,In-Person
+1258,246.31,2024-02-22 09:00:00,Clothing,Houston,25,45,1,Credit,Online
+1332,359.88,2024-02-25 11:00:00,Electronics,Phoenix,39,38,1,Debit,Online
+318,87.47,2024-01-14 05:00:00,Electronics,Chicago,19,96,0,Debit,Online
+649,394.8,2024-01-28 00:00:00,Grocery,New York,63,110,0,Credit,In-Person
+710,341.07,2024-01-30 13:00:00,Gas,Chicago,54,45,0,Debit,In-Person
+1283,280.26,2024-02-23 10:00:00,Grocery,Los Angeles,48,18,1,Debit,Online
+973,366.55,2024-02-10 12:00:00,Gas,Los Angeles,45,4,1,Credit,In-Person
+628,373.99,2024-01-27 03:00:00,Online,Houston,41,53,0,Debit,Online
+633,256.33,2024-01-27 08:00:00,Online,New York,60,90,0,Credit,In-Person
+1307,357.33,2024-02-24 10:00:00,Online,Los Angeles,19,94,1,Credit,Online
+1249,460.5,2024-02-22 00:00:00,Clothing,New York,31,57,1,Debit,Online
+1462,325.97,2024-03-01 21:00:00,Electronics,Chicago,61,63,1,Debit,In-Person
+1255,343.1,2024-02-22 06:00:00,Gas,Chicago,32,71,1,Credit,Online
+1384,129.81,2024-02-27 15:00:00,Gas,Phoenix,59,84,1,Debit,In-Person
+796,436.19,2024-02-03 03:00:00,Online,Chicago,61,118,1,Debit,Online
+646,445.37,2024-01-27 21:00:00,Electronics,Chicago,34,99,0,Credit,Online
+1013,472.09,2024-02-12 04:00:00,Grocery,Phoenix,42,109,1,Credit,In-Person
+557,67.87,2024-01-24 04:00:00,Gas,New York,45,75,0,Debit,In-Person
+682,129.69,2024-01-29 09:00:00,Grocery,New York,54,118,0,Credit,In-Person
+578,463.37,2024-01-25 01:00:00,Gas,Los Angeles,20,15,0,Debit,Online
+1110,77.79,2024-02-16 05:00:00,Online,Phoenix,37,34,1,Debit,Online
+1267,196.85,2024-02-22 18:00:00,Gas,Houston,49,86,1,Debit,Online
+1184,466.08,2024-02-19 07:00:00,Gas,Chicago,20,113,1,Debit,In-Person
+525,419.33,2024-01-22 20:00:00,Gas,Houston,18,42,0,Credit,In-Person
+1060,314.13,2024-02-14 03:00:00,Online,Houston,22,4,1,Debit,Online
+541,477.07,2024-01-23 12:00:00,Online,Chicago,60,18,0,Debit,Online
+1195,23.83,2024-02-19 18:00:00,Electronics,Los Angeles,68,90,1,Credit,Online
+749,453.33,2024-02-01 04:00:00,Grocery,New York,32,88,0,Debit,In-Person
+1387,386.96,2024-02-27 18:00:00,Grocery,New York,23,51,1,Debit,Online
+485,292.57,2024-01-21 04:00:00,Clothing,New York,60,93,0,Debit,In-Person
+96,247.4,2024-01-04 23:00:00,Clothing,Los Angeles,59,58,0,Debit,In-Person
+1021,349.01,2024-02-12 12:00:00,Gas,Houston,51,10,1,Credit,In-Person
+564,8.26,2024-01-24 11:00:00,Grocery,Phoenix,60,76,0,Credit,Online
+1265,6.8,2024-02-22 16:00:00,Gas,New York,41,38,1,Debit,Online
+743,374.06,2024-01-31 22:00:00,Gas,New York,40,73,0,Credit,In-Person
+864,220.94,2024-02-05 23:00:00,Grocery,Los Angeles,64,40,1,Credit,In-Person
+892,427.99,2024-02-07 03:00:00,Grocery,New York,36,56,1,Debit,Online
+1039,33.61,2024-02-13 06:00:00,Online,New York,27,44,1,Debit,In-Person
+207,51.63,2024-01-09 14:00:00,Online,New York,24,55,0,Debit,In-Person
+393,186.64,2024-01-17 08:00:00,Clothing,New York,51,6,0,Credit,Online
+795,10.04,2024-02-03 02:00:00,Clothing,Phoenix,54,87,1,Debit,Online
+871,187.28,2024-02-06 06:00:00,Grocery,New York,36,33,1,Debit,In-Person
+398,215.07,2024-01-17 13:00:00,Gas,Chicago,40,57,0,Credit,In-Person
+767,381.47,2024-02-01 22:00:00,Clothing,Chicago,20,111,1,Debit,In-Person
+1377,223.21,2024-02-27 08:00:00,Electronics,Houston,68,31,1,Credit,In-Person
+1242,388.52,2024-02-21 17:00:00,Electronics,Phoenix,48,109,1,Credit,In-Person
+1029,160.23,2024-02-12 20:00:00,Clothing,Chicago,23,112,1,Debit,In-Person
+643,106.51,2024-01-27 18:00:00,Online,Phoenix,48,54,0,Debit,In-Person
+613,314.32,2024-01-26 12:00:00,Online,Los Angeles,61,109,0,Credit,In-Person
+961,42.32,2024-02-10 00:00:00,Electronics,Chicago,38,17,1,Credit,In-Person
+726,421.07,2024-01-31 05:00:00,Online,Phoenix,59,112,0,Credit,Online
+684,334.65,2024-01-29 11:00:00,Electronics,Phoenix,59,95,0,Credit,In-Person
+99,13.68,2024-01-05 02:00:00,Electronics,Los Angeles,21,114,0,Credit,In-Person
+805,212.64,2024-02-03 12:00:00,Online,Houston,67,79,1,Credit,Online
+407,195.21,2024-01-17 22:00:00,Online,Los Angeles,45,85,0,Debit,Online
+503,155.45,2024-01-21 22:00:00,Clothing,Houston,56,18,0,Credit,In-Person
+1072,117.57,2024-02-14 15:00:00,Online,New York,27,23,1,Credit,Online
+1057,383.83,2024-02-14 00:00:00,Grocery,Houston,32,14,1,Debit,In-Person
+930,129.69,2024-02-08 17:00:00,Online,Phoenix,49,56,1,Debit,In-Person
+780,320.93,2024-02-02 11:00:00,Electronics,Chicago,30,113,1,Debit,Online
+201,321.37,2024-01-09 08:00:00,Grocery,Chicago,51,49,0,Credit,Online
+135,471.51,2024-01-06 14:00:00,Grocery,Los Angeles,69,17,0,Credit,Online
+1052,264.94,2024-02-13 19:00:00,Online,Los Angeles,26,72,1,Credit,In-Person
+41,61.9,2024-01-02 16:00:00,Clothing,Phoenix,27,67,0,Debit,Online
+1018,284.4,2024-02-12 09:00:00,Gas,Chicago,59,49,1,Debit,Online
+231,397.61,2024-01-10 14:00:00,Clothing,New York,48,58,0,Debit,Online
+379,407.42,2024-01-16 18:00:00,Electronics,Chicago,33,13,0,Credit,In-Person
+289,143.98,2024-01-13 00:00:00,Clothing,Phoenix,59,20,0,Debit,Online
+419,336.59,2024-01-18 10:00:00,Electronics,New York,23,85,0,Credit,Online
+392,206.9,2024-01-17 07:00:00,Gas,Phoenix,61,98,0,Debit,In-Person
+593,91.76,2024-01-25 16:00:00,Gas,Phoenix,55,40,0,Debit,Online
+1163,168.22,2024-02-18 10:00:00,Gas,Houston,24,68,1,Credit,Online
+1087,307.09,2024-02-15 06:00:00,Clothing,Houston,30,5,1,Debit,Online
+648,339.87,2024-01-27 23:00:00,Online,Phoenix,65,98,0,Credit,Online
+1153,349.04,2024-02-18 00:00:00,Gas,New York,25,77,1,Debit,Online
+1368,454.61,2024-02-26 23:00:00,Clothing,Phoenix,66,91,1,Credit,In-Person
+521,297.47,2024-01-22 16:00:00,Electronics,Houston,55,13,0,Debit,Online
+65,141.19,2024-01-03 16:00:00,Electronics,Phoenix,69,10,0,Credit,Online
+15,91.73,2024-01-01 14:00:00,Clothing,Houston,58,44,0,Debit,Online
+1181,481.53,2024-02-19 04:00:00,Grocery,Phoenix,68,17,1,Debit,Online
+1065,211.26,2024-02-14 08:00:00,Grocery,New York,64,28,1,Debit,Online
+493,139.41,2024-01-21 12:00:00,Gas,Los Angeles,68,18,0,Debit,In-Person
+380,141.65,2024-01-16 19:00:00,Grocery,Los Angeles,34,98,0,Debit,Online
+188,278.05,2024-01-08 19:00:00,Online,Houston,49,49,0,Credit,In-Person
+764,372.23,2024-02-01 19:00:00,Online,New York,30,90,1,Debit,In-Person
+217,163.37,2024-01-10 00:00:00,Online,Chicago,48,46,0,Credit,Online
+792,293.53,2024-02-02 23:00:00,Grocery,Phoenix,39,44,1,Credit,In-Person
+1077,192.78,2024-02-14 20:00:00,Gas,Phoenix,65,68,1,Credit,In-Person
+879,14.52,2024-02-06 14:00:00,Gas,Phoenix,41,36,1,Credit,Online
+338,352.13,2024-01-15 01:00:00,Online,Phoenix,63,37,0,Debit,In-Person
+720,365.7,2024-01-30 23:00:00,Clothing,Los Angeles,46,106,0,Credit,Online
+296,261.6,2024-01-13 07:00:00,Clothing,New York,67,66,0,Debit,In-Person
+1017,91.11,2024-02-12 08:00:00,Gas,Los Angeles,18,85,1,Debit,Online
+1276,53.36,2024-02-23 03:00:00,Clothing,Chicago,61,52,1,Debit,In-Person
+456,246.82,2024-01-19 23:00:00,Gas,Los Angeles,65,39,0,Debit,In-Person
+1497,310.13,2024-03-03 08:00:00,Online,Los Angeles,58,31,1,Debit,Online
+816,259.9,2024-02-03 23:00:00,Online,Houston,60,36,1,Credit,Online
+270,147.5,2024-01-12 05:00:00,Electronics,Chicago,59,98,0,Credit,Online
+996,46.7,2024-02-11 11:00:00,Electronics,Los Angeles,41,88,1,Credit,Online
+202,42.99,2024-01-09 09:00:00,Gas,Houston,30,56,0,Debit,Online
+162,316.52,2024-01-07 17:00:00,Electronics,Chicago,53,49,0,Debit,Online
+730,82.66,2024-01-31 09:00:00,Gas,Phoenix,48,46,0,Credit,Online
+402,451.37,2024-01-17 17:00:00,Online,Los Angeles,60,8,0,Debit,Online
+703,168.97,2024-01-30 06:00:00,Online,Chicago,35,119,0,Credit,Online
+1130,130.62,2024-02-17 01:00:00,Clothing,Phoenix,64,74,1,Debit,Online
+566,295.37,2024-01-24 13:00:00,Clothing,New York,43,101,0,Debit,Online
+1414,29.49,2024-02-28 21:00:00,Gas,Phoenix,66,5,1,Credit,Online
+1022,149.38,2024-02-12 13:00:00,Gas,Phoenix,33,47,1,Debit,Online
+1026,237.63,2024-02-12 17:00:00,Grocery,Houston,51,103,1,Credit,Online
+1412,56.85,2024-02-28 19:00:00,Clothing,Chicago,18,3,1,Credit,In-Person
+1105,497.46,2024-02-16 00:00:00,Grocery,New York,22,95,1,Debit,Online
+206,5.59,2024-01-09 13:00:00,Clothing,Chicago,48,49,0,Debit,Online
+35,482.85,2024-01-02 10:00:00,Clothing,Houston,50,80,0,Debit,In-Person
+776,75.81,2024-02-02 07:00:00,Clothing,Chicago,62,30,1,Credit,In-Person
+509,474.95,2024-01-22 04:00:00,Grocery,Los Angeles,28,53,0,Debit,In-Person
+1476,334.13,2024-03-02 11:00:00,Clothing,Chicago,61,26,1,Credit,Online
+1391,118.79,2024-02-27 22:00:00,Electronics,Houston,63,64,1,Debit,In-Person
+92,356.91,2024-01-04 19:00:00,Online,Houston,60,64,0,Debit,Online
+1364,316.15,2024-02-26 19:00:00,Grocery,Phoenix,66,95,1,Debit,In-Person
+898,448.27,2024-02-07 09:00:00,Clothing,Chicago,52,54,1,Debit,Online
+565,175.94,2024-01-24 12:00:00,Gas,Houston,64,2,0,Credit,Online
+1370,119.53,2024-02-27 01:00:00,Clothing,New York,60,75,1,Credit,In-Person
+777,115.4,2024-02-02 08:00:00,Gas,Phoenix,25,36,1,Debit,Online
+242,477.01,2024-01-11 01:00:00,Clothing,Phoenix,29,78,0,Credit,Online
+14,106.96,2024-01-01 13:00:00,Online,Los Angeles,34,79,0,Debit,In-Person
+316,348.29,2024-01-14 03:00:00,Grocery,Chicago,37,104,0,Debit,Online
+601,85.3,2024-01-26 00:00:00,Gas,New York,66,70,0,Debit,In-Person
+388,89.54,2024-01-17 03:00:00,Clothing,New York,61,2,0,Debit,Online
+1298,53.18,2024-02-24 01:00:00,Electronics,Los Angeles,39,87,1,Credit,Online
+167,161.07,2024-01-07 22:00:00,Grocery,Phoenix,51,20,0,Credit,In-Person
+841,7.53,2024-02-05 00:00:00,Grocery,Chicago,51,91,1,Debit,Online
+21,306.31,2024-01-01 20:00:00,Electronics,Houston,52,109,0,Debit,In-Person
+647,297.2,2024-01-27 22:00:00,Clothing,Houston,56,69,0,Credit,In-Person
+1155,309.69,2024-02-18 02:00:00,Gas,Phoenix,45,21,1,Credit,Online
+832,226.77,2024-02-04 15:00:00,Online,Houston,64,96,1,Debit,Online
+1268,240.49,2024-02-22 19:00:00,Online,Los Angeles,49,84,1,Credit,Online
+563,69.05,2024-01-24 10:00:00,Clothing,New York,45,86,0,Credit,In-Person
+1461,197.54,2024-03-01 20:00:00,Online,Houston,33,118,1,Debit,In-Person
+687,286.23,2024-01-29 14:00:00,Clothing,Houston,54,104,0,Debit,Online
+958,24.44,2024-02-09 21:00:00,Gas,New York,26,62,1,Credit,Online
+190,121.68,2024-01-08 21:00:00,Clothing,Phoenix,67,96,0,Credit,In-Person
+976,131.87,2024-02-10 15:00:00,Grocery,Chicago,42,69,1,Credit,Online
+700,241.09,2024-01-30 03:00:00,Grocery,Los Angeles,69,43,0,Credit,In-Person
+511,307.09,2024-01-22 06:00:00,Online,Los Angeles,59,87,0,Debit,In-Person
+1083,209.37,2024-02-15 02:00:00,Gas,Houston,54,57,1,Debit,In-Person
+475,264.32,2024-01-20 18:00:00,Grocery,Chicago,62,106,0,Debit,Online
+857,19.24,2024-02-05 16:00:00,Gas,Chicago,35,69,1,Credit,In-Person
+748,272.23,2024-02-01 03:00:00,Clothing,Chicago,56,49,0,Debit,In-Person
+253,425.72,2024-01-11 12:00:00,Grocery,Los Angeles,24,67,0,Debit,Online
+22,70.61,2024-01-01 21:00:00,Clothing,Los Angeles,39,55,0,Debit,In-Person
+1338,340.43,2024-02-25 17:00:00,Online,Houston,63,15,1,Credit,In-Person
+460,60.29,2024-01-20 03:00:00,Electronics,New York,52,18,0,Debit,In-Person
+1185,52.15,2024-02-19 08:00:00,Clothing,Phoenix,28,99,1,Debit,Online
+277,399.35,2024-01-12 12:00:00,Online,Los Angeles,47,40,0,Credit,Online
+956,192.19,2024-02-09 19:00:00,Electronics,Phoenix,23,2,1,Credit,Online
+1216,111.16,2024-02-20 15:00:00,Gas,Houston,55,13,1,Credit,Online
+386,401.94,2024-01-17 01:00:00,Grocery,Phoenix,49,69,0,Debit,In-Person
+806,368.49,2024-02-03 13:00:00,Gas,Houston,29,17,1,Credit,Online
+1438,352.64,2024-02-29 21:00:00,Grocery,Chicago,31,107,1,Debit,Online
+344,217.49,2024-01-15 07:00:00,Electronics,Houston,51,17,0,Credit,Online
+770,410.81,2024-02-02 01:00:00,Clothing,Chicago,37,27,1,Credit,Online
+1333,115.0,2024-02-25 12:00:00,Online,New York,39,69,1,Credit,In-Person
+131,209.29,2024-01-06 10:00:00,Gas,Houston,31,88,0,Debit,Online
+872,136.1,2024-02-06 07:00:00,Gas,New York,52,13,1,Debit,In-Person
+1124,404.95,2024-02-16 19:00:00,Clothing,Phoenix,28,114,1,Credit,In-Person
+1397,216.01,2024-02-28 04:00:00,Electronics,New York,38,60,1,Credit,Online
+88,319.14,2024-01-04 15:00:00,Gas,Chicago,43,62,0,Debit,Online
+1483,272.7,2024-03-02 18:00:00,Clothing,Los Angeles,31,109,1,Credit,Online
+331,178.63,2024-01-14 18:00:00,Clothing,Los Angeles,54,11,0,Credit,In-Person
+1239,484.13,2024-02-21 14:00:00,Electronics,Phoenix,31,75,1,Debit,Online
+467,143.57,2024-01-20 10:00:00,Gas,Chicago,37,48,0,Credit,In-Person
+122,448.15,2024-01-06 01:00:00,Gas,New York,53,110,0,Credit,In-Person
+1045,443.1,2024-02-13 12:00:00,Clothing,New York,26,36,1,Debit,In-Person
+1096,89.09,2024-02-15 15:00:00,Grocery,New York,56,74,1,Credit,In-Person
+1131,361.99,2024-02-17 02:00:00,Gas,New York,33,51,1,Debit,Online
+1295,400.49,2024-02-23 22:00:00,Gas,Los Angeles,46,48,1,Credit,Online
+861,387.99,2024-02-05 20:00:00,Clothing,Houston,27,95,1,Credit,In-Person
+1460,329.78,2024-03-01 19:00:00,Electronics,Phoenix,38,115,1,Debit,In-Person
+1127,44.41,2024-02-16 22:00:00,Electronics,New York,36,3,1,Debit,In-Person
